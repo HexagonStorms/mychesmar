@@ -97,64 +97,7 @@
 
         <!-- layout-->
         <div id="layout">
-            <!-- Login Client -->
-            <div class="jBar">
-              <div class="container">            
-                  <div class="row">                     
-                      <form>            
-                          <div class="col-md-2">
-                              <h1>Login Area</h1> 
-                          </div>
-                          <div class="col-md-4"> 
-                              <input type="email" placeholder="Your Email" required>
-                          </div>
-                          <div class="col-md-3">
-                              <input type="password" placeholder="Your Password" required>                          
-                          </div>
-                          <div class="col-md-3">
-                              <input type="submit" class="botton" value="Sign in">
-                              <span>Our</span>
-                              <input type="submit" class="botton" value="Register">
-                          </div>
-                      </form>              
-                      <p class="jTrigger downarrow">Close Login</p>
-                  </div>
-              </div>
-            </div>
-            <span class="jRibbon jTrigger up">Login</span>
-            <div class="line"></div>
-            <!-- End Login Client -->
 
-            <!-- Info Head -->
-            <section class="info_head">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <ul>  
-                                <li><i class="fa fa-headphones"></i><a href="#">01800034567</a></li>
-                                <li><i class="fa fa-comment"></i><a href="#">Live chat</a></li>
-                                <li>
-                                    <ul>
-                                      <li class="dropdown">
-                                        <i class="fa fa-globe"></i> 
-                                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
-                                            Language<i class="fa fa-angle-down"></i>
-                                        </a>
-                                         <ul class="dropdown-menu">  
-                                             <li><a href="#"><img src="img/language/spanish.png" alt="">Spanish</a></li>
-                                             <li><a href="#"><img src="img/language/english.png" alt="">English</a></li>
-                                             <li><a href="#"><img src="img/language/frances.png" alt="">Frances</a></li>
-                                             <li><a href="#"><img src="img/language/portugues.png" alt="">Portuguese</a></li>
-                                        </ul>
-                                      </li>                      
-                                    </ul>
-                                </li>
-                            </ul> 
-                        </div>
-                    </div>
-                </div>                         
-            </section>
-            <!-- Info Head -->
 
             <!-- Nav-->
             <nav>
@@ -166,17 +109,11 @@
                         <!-- Menu-->
                         <ul id="menu" class="col-md-9 sf-menu">
                             <li>
-                                <a href="index.html">HOME</a>
-                                <ul> 
-                                    <li><a href="index.html">Home Version 1</a></li>                                 
-                                    <li><a href="index-list.html">Home Version 2</a></li>
-                                    <li><a href="index-map-one.html">Home Version 3</a></li>
-                                    <li><a href="index-map-two.html">Home Version 4</a></li>
-                                </ul>
+                                <a href="/">HOME</a>
                             </li>
                             <li><a href="about.html">ABOUT</a></li>
                              <li>
-                                <a href="#">FEATURES</a>
+                                <a href="#">AVAILABLE HOMES</a>
                                 <ul> 
                                     <li><a href="#">Pages</a>
                                         <ul>                                  
@@ -192,15 +129,15 @@
                                 </ul>
                             </li>  
                             <li>
-                                <a href="#">PROPERTIES</a>
+                                <a href="#">DESIGN &amp; FLOOR PLANS</a>
                                 <ul>                                  
                                     <li><a href="properties.html">Properties</a></li>
                                     <li><a href="properties_two.html">Properties Two</a></li>
                                     <li><a href="details_properties.html">Details Properties</a></li>
                                 </ul>
-                            </li>  
+                            </li> 
                             <li>
-                                <a href="#">BLOG</a>
+                                <a href="#">LOCAL AREA</a>
                                 <ul>                                  
                                     <li><a href="blog.html">Post</a></li>
                                     <li><a href="single_post.html">Single Post</a></li>                                
