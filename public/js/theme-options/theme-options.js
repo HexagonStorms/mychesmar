@@ -18,7 +18,7 @@
 	function interface(){
 
     // Skin value
-    var skin = "red"; // yellow (default), red ,blue,purple,green, orange, purple, pink, cocoa, custom 
+    var skin = "green"; // yellow (default), red ,blue,purple,green, orange, purple, pink, cocoa, custom 
 
     // Boxed value
     var layout = "layout-wide"; // layout-wide (default), layout-boxed, layout-boxed-margin , layout-semiboxed
