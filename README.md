@@ -1,4 +1,4 @@
-# Riatta Homes in Cibolo | Chesmar
+# Riata Homes in Cibolo | Chesmar
 
 ## Ralph Plaza
 
