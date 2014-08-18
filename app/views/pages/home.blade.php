@@ -14,7 +14,7 @@ Riata Homes by Chesmar | Home
     <!-- Slide -->           
     <div class="camera_wrap camera_white_skin" id="slide">
         <!-- Item Slide -->  
-        <div  data-src="img/slide/slides/1.jpg">
+        <div  data-src="img/slide/slides/riata1.jpg">
             <div class="camera_caption fadeFromTop">
                  <div class="container"> 
                     <div class="row">
@@ -34,15 +34,11 @@ Riata Homes by Chesmar | Home
         <!-- End Item Slide -->  
 
         <!-- Item Slide --> 
-        <div data-src="img/slide/slides/2.jpg">
+        <div data-src="img/slide/slides/riata2.jpg">
             <div class="camera_caption fadeFromTop">
                  <div class="container"> 
                     <div class="row">
                         <div class="col-md-7 col-md-offset-5">
-                            <h1 class="animated fadeInRight delay1">We build brands for local
-                                <span class="arrow_title_slide"></span>
-                            </h1>   
-                            <p class="animated fadeInRight delay2">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p> 
                             <ul class="animated fadeInRight delay3">
                                 <li class="bathrooms"><span>3</span></li>
                                 <li class="bedrooms"><span>5</span></li>
@@ -59,15 +55,11 @@ Riata Homes by Chesmar | Home
        <!-- End Item Slide -->  
 
        <!-- Item Slide --> 
-        <div data-src="img/slide/slides/3.jpg">
+        <div data-src="img/slide/slides/riata3.jpg">
             <div class="camera_caption fadeFromTop">
                  <div class="container"> 
                     <div class="row">
                         <div class="col-md-7 col-md-offset-5">
-                            <h1 class="animated fadeInRight delay1">We build brands for local
-                                <span class="arrow_title_slide"></span>
-                            </h1>   
-                            <p class="animated fadeInRight delay2">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p> 
                             <ul class="animated fadeInRight delay3">
                                 <li class="bathrooms"><span>3</span></li>
                                 <li class="bedrooms"><span>5</span></li>
