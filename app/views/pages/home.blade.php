@@ -19,15 +19,10 @@ Riata Homes by Chesmar | Home
                  <div class="container"> 
                     <div class="row">
                         <div class="col-md-7 col-md-offset-5">
-                            <h1 class="animated fadeInRight delay1">We build brands for local
+                            <h1 class="animated fadeInRight delay1">Riata Homes by Chesmar
                                 <span class="arrow_title_slide"></span>
                             </h1>   
-                            <p class="animated fadeInRight delay2">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p> 
-                            <ul class="animated fadeInRight delay3">
-                                <li class="bathrooms"><span>3</span></li>
-                                <li class="bedrooms"><span>5</span></li>
-                                <li class="price">$<span>5000</span></li>
-                            </ul>
+                            <p class="animated fadeInRight delay2">Beautiful Homes perfect for you and your family.</p> 
                             <div class="more animated fadeInRight delay4">
                                 <a href="properties.html" class="button">More Info</a>
                             </div>
@@ -95,27 +90,6 @@ Riata Homes by Chesmar | Home
 <!-- content info -->
 <div class="content_info">
     <div class="container">
-        <!-- Newsletter Box -->                  
-        <div class="newsletter_box">
-            <div class="container">
-                <div class="row">
-                  <div class="col-md-8">
-                      <h3>
-                          STAY INFORMED
-                          <span>- Lorem ipsum dolor sit amet, consectetuer adipiscing elit Lorem ipsum.</span>
-                      </h3>                    
-                    </div>
-                    <div class="col-md-4">
-                       <form id="newsletterForm" action="php/mailchip/newsletter-subscribe.php">
-                            <input type="email" placeholder="Your Mail..." required >
-                            <button class="register" type="submit"><i class="fa fa-angle-right"></i></button>
-                        </form> 
-                        <div id="result-newsletter"></div> 
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Newsletter Box -->
       
         <!-- Title-->
         <div class="row">
@@ -123,208 +97,165 @@ Riata Homes by Chesmar | Home
               <div class="titles">
                   <span>WHAT WE OFFER</span>
                   <br>
-                  <h1>OUR RECENT PROPERTY</h1>
+                  <h1>FLOOR PLANS</h1>
               </div>
           </div>
         </div>
         <!-- End Title-->
 
-        <!-- Bar Filter properties-->
-        <div class="bar_properties" id="bar">
-            <div class="row">
-                  <div class="col-md-4">
-                      <ul>
-                          <li class="active"><a href="#">112 Ads</a></li>
-                          <li><a href="#">Particular</a></li>
-                          <li><a href="#">State</a></li>                            
-                      </ul>
-                  </div>
-                  <div class="col-md-5">
-                      <strong>Order By:</strong>
-                      <ul class="tooltip_hover">                            
-                          <li>
-                              <a href="#">Recent ads</a>
-                              <a href="#" data-toggle="tooltip" title data-original-title="Sort Ascending"><i class="fa fa-caret-up"></i></a>
-                              <a href="#" data-toggle="tooltip" title data-original-title="Sort Descending"><i class="fa fa-caret-down"></i></a>
-                          </li>
-                          <li>
-                            <a href="#">Price</a>
-                            <a href="#" data-toggle="tooltip" title data-original-title="Sort Ascending"><i class="fa fa-caret-up"></i></a>
-                            <a href="#" data-toggle="tooltip" title data-original-title="Sort Ascending"><i class="fa fa-caret-down"></i></a>
-                          </li>                            
-                      </ul>
-                  </div>
-                  <div class="col-md-3">
-                      <ul class="text_right tooltip_hover">
-                          <li class="active" data-toggle="tooltip" title data-original-title="Box"><a href="index.html#bar"><i class="fa fa-th-large"></i></a></li>
-                          <li data-toggle="tooltip" title data-original-title="List"><a href="index-list.html#bar"><i class="fa fa-list"></i></a></li> 
-                      </ul>
-                  </div>
-            </div>
-        </div>
-        <!-- End Bar Filter properties-->
-
-        <!-- Row Properties-->
+        <!-- Floor Plans-->
         <div class="row">
-            <!-- Item Property-->
+            <!-- Floor Plan #1 -->
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <div class="title rent"></div>
                         <img src="img/property/1.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>Floor Plan #1</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
+                            <li><strong>Bed/Bath:</strong><span>2 bed, 3 bath</span></li>
+                            <li><strong>SQ FEET:</strong><span>800 Sq. Ft.</span></li>
                         </ul>                                 
                     </div>
                   </div>
             </div>
-            <!-- Item Property-->
+            <!-- Floor Plan #1 -->
 
-            <!-- Item Property-->
+            <!-- Floor Plan #2 -->
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <div class="title sale"></div>
                         <img src="img/property/2.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>Floor Plan #2</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
-                        </ul>                                 
+                            <li><strong>Bed/Bath:</strong><span>1 bed, 2 bath</span></li>
+                            <li><strong>SQ FEET:</strong><span>550 Sq. Ft.</span></li>
+                        </ul>                                  
                     </div>
                   </div>
             </div>
-            <!-- Item Property-->
+            <!-- Floor Plan #2 -->
 
-            <!-- Item Property-->
+            <!-- Floor Plan #3 -->
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <div class="title sale"></div>
                         <img src="img/property/3.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>Floor Plan #3</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
+                            <li><strong>Bed/Bath:</strong><span>4 bed, 5 bath</span></li>
+                            <li><strong>SQ FEET:</strong><span>2200 Sq. Ft.</span></li>
                         </ul>                                 
                     </div>
                   </div>
             </div>
-            <!-- Item Property-->
+            <!-- Floor Plan #3 -->
 
-            <!-- Item Property-->
+            <!-- Floor Plan #4 -->
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <div class="title rent"></div>
                         <img src="img/property/4.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>Floor Plan #4</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
-                        </ul>                                 
+                            <li><strong>Bed/Bath:</strong><span>3 bed, 2 bath</span></li>
+                            <li><strong>SQ FEET:</strong><span>1200 Sq. Ft.</span></li>
+                        </ul>                                
                     </div>
                   </div>
             </div>
-            <!-- Item Property-->
+            <!-- Floor Plan #4 -->
           
-            <!-- Item Property-->
+            <!-- Floor Plan #5 -->
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <div class="title rent"></div>
                         <img src="img/property/5.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>Floor Plan #5</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
-                        </ul>                                 
+                            <li><strong>Bed/Bath:</strong><span>1 bed, 1 bath</span></li>
+                            <li><strong>SQ FEET:</strong><span>500 Sq. Ft.</span></li>
+                        </ul>                                
                     </div>
                   </div>
             </div>
-            <!-- Item Property-->
+            <!-- Floor Plan #5 -->
 
-            <!-- Item Property-->
+            <!-- Floor Plan #6 -->
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <div class="title sale"></div>
                         <img src="img/property/6.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>Floor Plan #6</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
+                            <li><strong>Bed/Bath:</strong><span>3 bed, 2 bath</span></li>
+                            <li><strong>SQ FEET:</strong><span>1000 Sq. Ft.</span></li>
                         </ul>                                 
                     </div>
                   </div>
             </div>
-            <!-- Item Property-->
+            <!-- Floor Plan #6 -->
 
-            <!-- Item Property-->
+            <!-- Floor Plan #7 -->
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <div class="title sale"></div>
                         <img src="img/property/7.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>Floor Plan #7</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
+                            <li><strong>Bed/Bath:</strong><span>4 bed, 5 bath</span></li>
+                            <li><strong>SQ FEET:</strong><span>3300 Sq. Ft.</span></li>
                         </ul>                                 
                     </div>
                   </div>
             </div>
-            <!-- Item Property-->
+            <!-- Floor Plan #7 -->
 
-            <!-- Item Property-->
+            <!-- Floor Plan #8 -->
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <div class="title rent"></div>
                         <img src="img/property/8.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>Floor Plan #8</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
+                            <li><strong>Bed/Bath:</strong><span>4 bed, 4 bath</span></li>
+                            <li><strong>SQ FEET:</strong><span>1800 Sq. Ft.</span></li>
                         </ul>                                 
                     </div>
                   </div>
             </div>
-            <!-- Item Property-->
+            <!-- Floor Plan #8 -->
         </div>
         <!-- End Row Properties-->
 
@@ -340,7 +271,7 @@ Riata Homes by Chesmar | Home
                 <!-- End Divisor-->
 
                 <div class="titles">
-                    <h1>THEME FEATURES</h1>
+                    <h1>DESIGN FEATURES</h1>
                 </div>
             </div>
             <!-- End Title-->
@@ -349,7 +280,7 @@ Riata Homes by Chesmar | Home
             <div class="services padding_top_mini">
                 <!-- Item Service-->
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                    <h3><a href="#">Metrics results</a></h3>
+                    <h3><a href="#">Neat feature</a></h3>
                     <div class="item_service">
                         <div class="image_service">
                             <i class="fa fa-coffee"></i>
@@ -364,10 +295,10 @@ Riata Homes by Chesmar | Home
 
                <!-- Item Service-->
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                    <h3><a href="#">Featured projects</a></h3>
+                    <h3><a href="#">Mega cool custimzation</a></h3>
                     <div class="item_service">
                         <div class="image_service">
-                            <i class="fa fa-desktop"></i>
+                            <i class="fa fa-home"></i>
                         </div>
                         <div class="info_service">
                             <p>Pellentesque habitant morbi tristi senectus et netus et .</p>
@@ -379,10 +310,10 @@ Riata Homes by Chesmar | Home
 
                 <!-- Item Service-->
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                    <h3><a href="#">Find your Place</a></h3>
+                    <h3><a href="#">more cool stuff</a></h3>
                     <div class="item_service">
                         <div class="image_service">
-                            <i class="fa fa-suitcase"></i>
+                            <i class="fa fa-car"></i>
                         </div>
                         <div class="info_service">
                             <p>Pellentesque habitant morbi tristi senectus et netus et .</p>
@@ -394,10 +325,10 @@ Riata Homes by Chesmar | Home
            
                 <!-- Item Service-->
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                    <h3><a href="#">Advertise rentals</a></h3>
+                    <h3><a href="#">Pick your favorite</a></h3>
                     <div class="item_service">
                         <div class="image_service">
-                            <i class="fa fa-tasks"></i>
+                            <i class="fa fa-road"></i>
                         </div>
                         <div class="info_service">
                             <p>Pellentesque habitant morbi tristi senectus et netus et .</p>
@@ -409,7 +340,7 @@ Riata Homes by Chesmar | Home
 
                <!-- Item Service-->
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                    <h3><a href="#">Guidance</a></h3>
+                    <h3><a href="#">Ralph is awesome</a></h3>
                     <div class="item_service">
                         <div class="image_service">
                             <i class="fa fa-tags"></i>
@@ -424,7 +355,7 @@ Riata Homes by Chesmar | Home
 
                 <!-- Item Service-->
                 <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                    <h3><a href="#">List your property</a></h3>
+                    <h3><a href="#">Plz buy</a></h3>
                     <div class="item_service">
                         <div class="image_service">
                             <i class="fa fa-camera"></i>
@@ -441,7 +372,7 @@ Riata Homes by Chesmar | Home
         </div>
         <!-- End Features -->
 
-        <!-- Content Carousel Properties -->
+        <!-- Available Homes -->
         <div class="content-carousel">
             <div class="row">
                 <div class="col-md-12">
@@ -460,115 +391,115 @@ Riata Homes by Chesmar | Home
                 </div>
             </div>
 
-            <!-- Carousel Properties -->
+            <!-- Avaiable Homes -->
             <div id="properties-carousel" class="properties-carousel">
-                <!-- Item Property-->
+                <!-- Available Home #1-->
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
                         <div class="title rent"></div>
                         <img src="img/property/1.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>2 Story, 2Bed, 2Bath</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
+                            <li><strong>Place </strong><span>Riata</span></li>
+                            <li><strong>Price</strong><span>$175,000</span></li>
                         </ul>                                 
                     </div>
                 </div>
-                <!-- Item Property-->
+                <!-- Available Home #1 -->
 
-                <!-- Item Property-->
+                <!-- Available Home #2 -->
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
                         <div class="title sale"></div>
                         <img src="img/property/2.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>1 Story, 1 Bed, 2Bath</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
-                        </ul>                                 
+                            <li><strong>Place </strong><span>Riata</span></li>
+                            <li><strong>Price</strong><span>$250,000</span></li>
+                        </ul>                                  
                     </div>
                 </div>
-                <!-- End Item Property-->
+                <!-- End Available Home #2 -->
 
-                <!-- Item Property-->
+                <!-- Available Home #3 -->
                  <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
                         <div class="title sale"></div>
                         <img src="img/property/3.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>2 Story, 2 Bed, 2 Bath</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
-                        </ul>                                 
+                            <li><strong>Place </strong><span>Riata</span></li>
+                            <li><strong>Price</strong><span>$200,000</span></li>
+                        </ul>                                
                     </div>
                 </div>
-                <!-- End Item Property-->
+                <!-- End Available Home #3 -->
 
-                <!-- Item Property-->
+                <!-- Available Home # -->
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
                         <div class="title rent"></div>
                         <img src="img/property/4.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>1 Story, 2 Bed, 2 Bath</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
-                        </ul>                                 
+                            <li><strong>Place </strong><span>Riata</span></li>
+                            <li><strong>Price</strong><span>$340,000</span></li>
+                        </ul>                                  
                     </div>
                 </div>
-                <!-- End Item Property-->
+                <!-- End Available Home #3 -->
 
-                <!-- Item Property-->
+                <!-- Available Home #4 -->
                  <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
                         <div class="title sale"></div>
                         <img src="img/property/3.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>2 Story, 3 Bed, 4 Bath</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
-                        </ul>                                 
+                            <li><strong>Place </strong><span>Riata</span></li>
+                            <li><strong>Price</strong><span>$400,000</span></li>
+                        </ul>                                  
                     </div>
                 </div>
-                <!-- End Item Property-->
+                <!-- End Available Home #4 -->
 
-                <!-- Item Property-->
+                <!-- Available Home #5 -->
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
                         <div class="title rent"></div>
                         <img src="img/property/8.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>1 Story, 2 Bed, 3 Bath</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
+                            <li><strong>Place </strong><span>Riata</span></li>
+                            <li><strong>Price</strong><span>$225,000</span></li>
                         </ul>                                 
                     </div>
                 </div>
-                <!-- End Item Property-->
+                <!-- End Available Home #5 -->
             </div>
             <!-- End Carousel Properties -->
         </div>
@@ -603,7 +534,7 @@ Riata Homes by Chesmar | Home
               <div class="col-md-3">
                   <div class="thumbnail-process">
                     <div class="caption-head">
-                      <em class="caption-icon fa fa-check icon-big"></em>                            
+                      <em class="caption-icon fa fa-university icon-big"></em>                            
                       <h2 class="caption-title">Discover</h2>
                     </div>
                   </div>
@@ -615,7 +546,7 @@ Riata Homes by Chesmar | Home
               <div class="col-md-3">
                   <div class="thumbnail-process">
                     <div class="caption-head">
-                      <em class="caption-icon fa fa-edit icon-big"></em>
+                      <em class="caption-icon fa fa-heart-o icon-big"></em>
                         <h2 class="caption-title">Match</h2>
                     </div>
                   </div>
@@ -626,7 +557,7 @@ Riata Homes by Chesmar | Home
             <div class="col-md-3">
                 <div class="thumbnail-process">
                   <div class="caption-head">
-                    <em class="caption-icon fa fa-credit-card icon-big"></em>
+                    <em class="caption-icon fa fa-smile-o icon-big"></em>
                       <h2 class="caption-title">Sign</h2>
                   </div>
                 </div>
