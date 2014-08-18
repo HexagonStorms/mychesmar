@@ -104,7 +104,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-3 logo">
-                            <a href="#"><img src="img/chesmarlogo200x46.png" alt="Image"></a>
+                            <a href="#"><img src="img/chesmarlogo200x46.png" alt="chesmar logo"></a>
                         </div>
                         <!-- Menu-->
                         <ul id="menu" class="col-md-9 sf-menu">
