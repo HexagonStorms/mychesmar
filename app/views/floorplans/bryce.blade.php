@@ -59,16 +59,14 @@ Floor Plans | Bryce
             <div class="col-md-4">
                 <div class="description">
                     <h4>GENERAL DESCRIPTION</h4>
-                    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada.</p>
-
-                    <h4>379 AVENUE NEW YORK 33139 NY</h4>
+                    <p>Single-story home with three bedrooms plus study, two bathrooms, a formal dining room, an eat-in kitchen and breakfast, two-car attached garage, and a covered patio. Open-concept plan features raised ceilings and arched door openings. Private master suite features a tray ceiling and bay window. Backyard features a large covered patio with high ceiling.</p>
                     <ul class="info_details">                          
-                        <li><strong>Price:</strong><span> $500 </span></li>
-                        <li><strong>Location:</strong><span>New York</span></li>
-                        <li><strong>Area:</strong><span>350 mts²</span></li>
-                        <li><strong>Address:</strong><span>New York 33 # 1-39</span></li>
+                        <li><strong>Price:</strong><span> $236,990 </span></li>
+                        <li><strong>Sq. FEET:</strong><span>1,921</span></li>
+                        <li><strong>Story:</strong><span>1 story</span></li>
                         <li><strong>Bathrooms:</strong><span>2</span></li>
                         <li><strong>Bedrooms:</strong><span>3</span></li>
+                        <li><strong>Tour:</strong><span><a href="http://www.tourbuzz.net/public/vtour/display/216796?idx=1">View</a></span></li>
                     </ul>
                 </div>
             </div> 
@@ -79,14 +77,18 @@ Floor Plans | Bryce
             <div class="col-md-12">
                 <!--NAV TABS-->
                 <ul class="tabs"> 
-                    <li><a href="#tab1">More Details</a></li> 
-                    <li><a href="#tab2">Contact Agent</a></li>                                              
-                    <li><a href="#tab3">Comments</a></li>                                              
+                    <li><a href="#tab1">Energy Savings &amp; Comfort</a></li> 
+                    <li><a href="#tab2">Exterior</a></li>                                              
+                    <li><a href="#tab3">Interior</a></li>
+                    <li><a href="#tab4">Kitchen</a></li>  
+                    <li><a href="#tab5">Bathrooms</a></li>  
+                    <li><a href="#tab7">Additional Features</a></li>  
+                    <li><a href="#tab8">Construction &amp; Disclaimer</a></li>                                                
                 </ul>                       
                             
                 <!--CONTAINER TABS-->   
                 <div class="tab_container"> 
-                    <!--Tab1 Genral info-->      
+                    <!-- Tab 1 -->      
                     <div id="tab1" class="tab_content">
                         <div class="row">
                             <div class="col-md-6">
@@ -136,117 +138,389 @@ Floor Plans | Bryce
                             <div class="circle_right"></div>
                         </div>
                         <!-- End Divisor-->
-
-                        <!-- Map-->      
-                        <div class="row">   
-                          <div class="col-md-12">
-                              <h4>Riata Homes</h4>             
-                              <div class="map_area">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d55496.99800854714!2d-98.27550805713102!3d29.616405499126632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!1i0!3e0!4m0!4m5!1s0x865c93e7a404e659%3A0x2620d09eeee55c09!2s2901+Mineral+Springs%2C+Schertz%2C+TX+78108!3m2!1d29.6163353!2d-98.2411752!5e0!3m2!1sen!2sus!4v1408484221839"></iframe>
-                              </div>
-                          </div>
-                        </div>
-                        <!--End  Map-->                 
+              
                     </div>
-                    <!--End Tab1 Genral info-->      
+                    <!-- END TAB 1 -->      
 
-                    <!--Tab2 Contact Agent-->      
+                    <!-- TAB 2 -->      
                     <div id="tab2" class="tab_content">                                                             
                        <div class="row">
                             <div class="col-md-6">
-                                <h4>Contact Agent</h4>
-                                <form id="form" action="send_mail.php">
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <input type="text" placeholder="Name" name="Name" required>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <input type="email" placeholder="Email"  name="Email" required>
-                                        </div>
+                                <h4>General Features</h4>
+                                <div class="row">
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Air conditioning</li>
+                                            <li><i class="icon-ok"></i> Balcony</li>
+                                            <li><i class="icon-ok"></i> Bedding</li>
+                                            <li><i class="icon-remove"></i>Cable TV</li>      
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>                     
+                                        </ul>
                                     </div>
-                                    <textarea placeholder="Your Message" name="message" required></textarea>
-                                    <input type="submit" name="Submit" value="Send Message" class="button">
-                                </form>  
-                                <div class="result"></div>
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>
+                                            <li><i class="icon-ok"></i> Balcony</li>
+                                            <li><i class="icon-ok"></i> Bedding</li>
+                                            <li><i class="icon-ok"></i> Parking</li>
+                                            <li><i class="icon-ok"></i> Computer</li>                           
+                                        </ul>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Radio</li>
+                                            <li><i class="icon-remove"></i>Terrace</li>                              
+                                            <li><i class="icon-remove"></i>Use of pool</li>
+                                            <li><i class="icon-ok"></i> Microwave</li>
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>
+                                        </ul>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="col-md-6">                                
-                                 <div class="row item_agent">
-                                    <div class="col-md-6 image_agent">
-                                        <img src="/img/team/1.jpg" alt="Image">
-                                    </div>
-                                    <div class="col-md-6 info_agent">
-                                        <h5>PAUL MCCARTHY</h5>
-                                        <ul>
-                                            <li><i class="fa fa-envelope"></i><a href="#">pmaccarty@domain.com</a></li>
-                                            <li><i class="fa fa-phone"></i><a href="#">331-23-45</a></li>
-                                            <li><i class="fa fa-mobile-phone"></i><a href="#">331-23-45</a></li>
-                                        </ul>                                        
-                                    </div>
-                                 </div>
-                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, habitant morbi tristique senectus.</p>
+                            <div class="col-md-6">
+                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
                             </div>
-                       </div>        
-                    </div>
-                    <!--End Tab2 Contact Agent-->      
+                        </div>  
 
-                    <!--Tab3 commnets-->      
+                        <!-- Divisor-->
+                        <div class="divisor">
+                            <div class="circle_left"></div>
+                            <div class="circle_right"></div>
+                        </div>
+                        <!-- End Divisor-->  
+
+                    </div>
+                    <!-- END TAB 2 -->
+
+                    <!-- Tab 3 -->      
                     <div id="tab3" class="tab_content">                
-                        <!-- commments -->
-                        <ul class="media-list comments">
-                           <!-- commment -->
-                          <li class="media">
-                            <a class="pull-left" href="#">
-                              <img src="/img/comment/1.jpg" alt="Image">
-                            </a>
-                            <div class="media-body">
-                              <h5 class="media-heading">Jason - <a href="#">reply</a></h5>
-                              <p>The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>                 
-                             
-                                  <!-- Sub commment -->
-                                  <div class="media">
-                                        <a class="pull-left" href="#">
-                                      <img src="/img/comment/2.jpg" alt="Image">
-                                    </a>
-                                    <div class="media-body">
-                                      <h5 class="media-heading">Max - <a href="#">reply</a></h5>
-                                      <p>The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
-                                     </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h4>General Features</h4>
+                                <div class="row">
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Air conditioning</li>
+                                            <li><i class="icon-ok"></i> Balcony</li>
+                                            <li><i class="icon-ok"></i> Bedding</li>
+                                            <li><i class="icon-remove"></i>Cable TV</li>      
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>                     
+                                        </ul>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>
+                                            <li><i class="icon-ok"></i> Balcony</li>
+                                            <li><i class="icon-ok"></i> Bedding</li>
+                                            <li><i class="icon-ok"></i> Parking</li>
+                                            <li><i class="icon-ok"></i> Computer</li>                           
+                                        </ul>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Radio</li>
+                                            <li><i class="icon-remove"></i>Terrace</li>                              
+                                            <li><i class="icon-remove"></i>Use of pool</li>
+                                            <li><i class="icon-ok"></i> Microwave</li>
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>
+                                        </ul>
+                                    </div>
                                 </div>
-                                <!-- End Sub commment -->
                             </div>
-                          </li>
-                          <!-- End commment -->
+                            <div class="col-md-6">
+                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                            </div>
+                        </div>
 
-                          <!-- commment -->
-                          <li class="media">
-                            <a class="pull-left" href="#">
-                              <img src="/img/comment/3.jpg" alt="Image">
-                            </a>
-                            <div class="media-body">
-                              <h5 class="media-heading">Lebron - <a href="#">reply</a></h5>
-                              <p>The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
-                            </div>
-                          </li>
-                          <!-- End commment -->
-                        </ul>
-                        <!-- End commments -->
+                        <!-- Divisor-->
+                        <div class="divisor">
+                            <div class="circle_left"></div>
+                            <div class="circle_right"></div>
+                        </div>
+                        <!-- End Divisor-->
 
-                        <h4>Coment</h4>
-                        <form id="form-coment" action="send_mail.php">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <input type="text" placeholder="Name" name="Name" required>
-                                </div>
-                                <div class="col-md-6">
-                                    <input type="email" placeholder="Email"  name="Email" required>
+                    </div> 
+                    <!-- END TAB 3 --> 
+
+                    <!-- Tab 4 -->      
+                    <div id="tab4" class="tab_content">                
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h4>General Features</h4>
+                                <div class="row">
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Air conditioning</li>
+                                            <li><i class="icon-ok"></i> Balcony</li>
+                                            <li><i class="icon-ok"></i> Bedding</li>
+                                            <li><i class="icon-remove"></i>Cable TV</li>      
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>                     
+                                        </ul>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>
+                                            <li><i class="icon-ok"></i> Balcony</li>
+                                            <li><i class="icon-ok"></i> Bedding</li>
+                                            <li><i class="icon-ok"></i> Parking</li>
+                                            <li><i class="icon-ok"></i> Computer</li>                           
+                                        </ul>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Radio</li>
+                                            <li><i class="icon-remove"></i>Terrace</li>                              
+                                            <li><i class="icon-remove"></i>Use of pool</li>
+                                            <li><i class="icon-ok"></i> Microwave</li>
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>
+                                        </ul>
+                                    </div>
                                 </div>
                             </div>
-                            <textarea placeholder="Your Message" name="message" required></textarea>
-                            <input type="submit" name="Submit" value="Send Message" class="button">
-                        </form>  
-                    </div>
-                    <!--End Tab3 commnets--> 
-                </div> 
+                            <div class="col-md-6">
+                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                            </div>
+                        </div>
+
+                        <!-- Divisor-->
+                        <div class="divisor">
+                            <div class="circle_left"></div>
+                            <div class="circle_right"></div>
+                        </div>
+                        <!-- End Divisor-->
+                        
+                    </div> 
+                    <!-- END TAB 4 --> 
+
+                    <!-- Tab 5 -->      
+                    <div id="tab5" class="tab_content">                
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h4>General Features</h4>
+                                <div class="row">
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Air conditioning</li>
+                                            <li><i class="icon-ok"></i> Balcony</li>
+                                            <li><i class="icon-ok"></i> Bedding</li>
+                                            <li><i class="icon-remove"></i>Cable TV</li>      
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>                     
+                                        </ul>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>
+                                            <li><i class="icon-ok"></i> Balcony</li>
+                                            <li><i class="icon-ok"></i> Bedding</li>
+                                            <li><i class="icon-ok"></i> Parking</li>
+                                            <li><i class="icon-ok"></i> Computer</li>                           
+                                        </ul>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Radio</li>
+                                            <li><i class="icon-remove"></i>Terrace</li>                              
+                                            <li><i class="icon-remove"></i>Use of pool</li>
+                                            <li><i class="icon-ok"></i> Microwave</li>
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                            </div>
+                        </div>
+
+                        <!-- Divisor-->
+                        <div class="divisor">
+                            <div class="circle_left"></div>
+                            <div class="circle_right"></div>
+                        </div>
+                        <!-- End Divisor-->
+                        
+                    </div> 
+                    <!-- END TAB 5 --> 
+
+                    <!-- Tab 6 -->      
+                    <div id="tab6" class="tab_content">                
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h4>General Features</h4>
+                                <div class="row">
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Air conditioning</li>
+                                            <li><i class="icon-ok"></i> Balcony</li>
+                                            <li><i class="icon-ok"></i> Bedding</li>
+                                            <li><i class="icon-remove"></i>Cable TV</li>      
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>                     
+                                        </ul>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>
+                                            <li><i class="icon-ok"></i> Balcony</li>
+                                            <li><i class="icon-ok"></i> Bedding</li>
+                                            <li><i class="icon-ok"></i> Parking</li>
+                                            <li><i class="icon-ok"></i> Computer</li>                           
+                                        </ul>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Radio</li>
+                                            <li><i class="icon-remove"></i>Terrace</li>                              
+                                            <li><i class="icon-remove"></i>Use of pool</li>
+                                            <li><i class="icon-ok"></i> Microwave</li>
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                            </div>
+                        </div>
+
+                        <!-- Divisor-->
+                        <div class="divisor">
+                            <div class="circle_left"></div>
+                            <div class="circle_right"></div>
+                        </div>
+                        <!-- End Divisor-->
+                        
+                    </div> 
+                    <!-- END TAB 6 --> 
+
+                    <!-- Tab 7 -->      
+                    <div id="tab7" class="tab_content">                
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h4>General Features</h4>
+                                <div class="row">
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Air conditioning</li>
+                                            <li><i class="icon-ok"></i> Balcony</li>
+                                            <li><i class="icon-ok"></i> Bedding</li>
+                                            <li><i class="icon-remove"></i>Cable TV</li>      
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>                     
+                                        </ul>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>
+                                            <li><i class="icon-ok"></i> Balcony</li>
+                                            <li><i class="icon-ok"></i> Bedding</li>
+                                            <li><i class="icon-ok"></i> Parking</li>
+                                            <li><i class="icon-ok"></i> Computer</li>                           
+                                        </ul>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Radio</li>
+                                            <li><i class="icon-remove"></i>Terrace</li>                              
+                                            <li><i class="icon-remove"></i>Use of pool</li>
+                                            <li><i class="icon-ok"></i> Microwave</li>
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                            </div>
+                        </div>
+
+                        <!-- Divisor-->
+                        <div class="divisor">
+                            <div class="circle_left"></div>
+                            <div class="circle_right"></div>
+                        </div>
+                        <!-- End Divisor-->
+                        
+                    </div> 
+                    <!-- END TAB 7 --> 
+
+                    <!-- Tab 8 -->      
+                    <div id="tab8" class="tab_content">                
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h4>General Features</h4>
+                                <div class="row">
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Air conditioning</li>
+                                            <li><i class="icon-ok"></i> Balcony</li>
+                                            <li><i class="icon-ok"></i> Bedding</li>
+                                            <li><i class="icon-remove"></i>Cable TV</li>      
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>                     
+                                        </ul>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>
+                                            <li><i class="icon-ok"></i> Balcony</li>
+                                            <li><i class="icon-ok"></i> Bedding</li>
+                                            <li><i class="icon-ok"></i> Parking</li>
+                                            <li><i class="icon-ok"></i> Computer</li>                           
+                                        </ul>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-4 col-md-4">
+                                        <ul class="general_info">
+                                            <li><i class="icon-ok"></i> Radio</li>
+                                            <li><i class="icon-remove"></i>Terrace</li>                              
+                                            <li><i class="icon-remove"></i>Use of pool</li>
+                                            <li><i class="icon-ok"></i> Microwave</li>
+                                            <li><i class="icon-ok"></i> Wifi</li>
+                                            <li><i class="icon-remove"></i>DVD</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                            </div>
+                        </div>
+
+                        <!-- Divisor-->
+                        <div class="divisor">
+                            <div class="circle_left"></div>
+                            <div class="circle_right"></div>
+                        </div>
+                        <!-- End Divisor-->
+                        
+                    </div> 
+                    <!-- END TAB 8 --> 
+
+                </div>
                 <!--END CONTAINER TABS-->
             </div>
         </div>
