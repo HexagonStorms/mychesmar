@@ -80,10 +80,9 @@ Floor Plans | Bryce
                     <li><a href="#tab1">Energy Savings &amp; Comfort</a></li> 
                     <li><a href="#tab2">Exterior</a></li>                                              
                     <li><a href="#tab3">Interior</a></li>
-                    <li><a href="#tab4">Kitchen</a></li>  
-                    <li><a href="#tab5">Bathrooms</a></li>  
-                    <li><a href="#tab7">Additional Features</a></li>  
-                    <li><a href="#tab8">Construction &amp; Disclaimer</a></li>                                                
+                    <li><a href="#tab4">Rooms</a></li>  
+                    <li><a href="#tab5">Additional Features</a></li>  
+                    <li><a href="#tab6">Construction &amp; Disclaimer</a></li>                                                
                 </ul>                       
                             
                 <!--CONTAINER TABS-->   
@@ -250,47 +249,63 @@ Floor Plans | Bryce
                     </div> 
                     <!-- END TAB 3 --> 
 
-                    <!-- Tab 4 -->      
+                    <!-- Tab 4: Bathrooms, Kitchen & Laundry -->      
                     <div id="tab4" class="tab_content">                
                         <div class="row">
                             <div class="col-md-6">
-                                <h4>General Features</h4>
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <ul class="general_info">
-                                            <li><i class="icon-ok"></i> Air conditioning</li>
-                                            <li><i class="icon-ok"></i> Balcony</li>
-                                            <li><i class="icon-ok"></i> Bedding</li>
-                                            <li><i class="icon-remove"></i>Cable TV</li>      
-                                            <li><i class="icon-ok"></i> Wifi</li>
-                                            <li><i class="icon-remove"></i>DVD</li>                     
-                                        </ul>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <ul class="general_info">
-                                            <li><i class="icon-ok"></i> Wifi</li>
-                                            <li><i class="icon-remove"></i>DVD</li>
-                                            <li><i class="icon-ok"></i> Balcony</li>
-                                            <li><i class="icon-ok"></i> Bedding</li>
-                                            <li><i class="icon-ok"></i> Parking</li>
-                                            <li><i class="icon-ok"></i> Computer</li>                           
-                                        </ul>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <ul class="general_info">
-                                            <li><i class="icon-ok"></i> Radio</li>
-                                            <li><i class="icon-remove"></i>Terrace</li>                              
-                                            <li><i class="icon-remove"></i>Use of pool</li>
-                                            <li><i class="icon-ok"></i> Microwave</li>
-                                            <li><i class="icon-ok"></i> Wifi</li>
-                                            <li><i class="icon-remove"></i>DVD</li>
-                                        </ul>
-                                    </div>
+                                <h4>Kitchen</h4>
+                                <div class="col-xs-12">
+                                    <ul class="general_info">
+                                        <li>Granite countertops with ceramic tile backsplash</li>
+                                        <li>Kitchen Island per plan</li>
+                                        <li>High quality Maple cabinetry with 42” high uppers and decorative crown molding</li>
+                                        <li>Deep stainless steel sink with designer chrome faucet by Moen</li>      
+                                        <li>Complete GE stainless steel appliance package including extra-large GE standard-clean energy efficient gas range, Energy Star rated built-in GE dishwasher, and GE microwave</li>
+                                        <li>Garbage disposal</li>
+                                        <li>Recessed icemaker line at refrigerator</li>                   
+                                    </ul>
                                 </div>
                             </div>
+
                             <div class="col-md-6">
-                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                                <h4>Laundry Room</h4>
+                                <div class="col-xs-12">
+                                    <ul class="general_info">
+                                        <li>Overhead storage shelf with clothing rod</li>
+                                        <li>Storage and/or freezer space per plan</li>
+                                                             
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h4>Master Bathroom</h4>
+                                <div class="col-xs-12">
+                                    <ul class="general_info">
+                                        <li><i class="icon-ok"></i> Air conditioning</li>
+                                        <li><i class="icon-ok"></i> Balcony</li>
+                                        <li><i class="icon-ok"></i> Bedding</li>
+                                        <li><i class="icon-remove"></i>Cable TV</li>      
+                                        <li><i class="icon-ok"></i> Wifi</li>
+                                        <li><i class="icon-remove"></i>DVD</li>                     
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <h4>Secondary Bathroom</h4>
+                                <div class="col-xs-12">
+                                    <ul class="general_info">
+                                        <li><i class="icon-ok"></i> Air conditioning</li>
+                                        <li><i class="icon-ok"></i> Balcony</li>
+                                        <li><i class="icon-ok"></i> Bedding</li>
+                                        <li><i class="icon-remove"></i>Cable TV</li>      
+                                        <li><i class="icon-ok"></i> Wifi</li>
+                                        <li><i class="icon-remove"></i>DVD</li>                     
+                                    </ul>
+                                </div>
                             </div>
                         </div>
 
@@ -411,114 +426,6 @@ Floor Plans | Bryce
                         
                     </div> 
                     <!-- END TAB 6 --> 
-
-                    <!-- Tab 7 -->      
-                    <div id="tab7" class="tab_content">                
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h4>General Features</h4>
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <ul class="general_info">
-                                            <li><i class="icon-ok"></i> Air conditioning</li>
-                                            <li><i class="icon-ok"></i> Balcony</li>
-                                            <li><i class="icon-ok"></i> Bedding</li>
-                                            <li><i class="icon-remove"></i>Cable TV</li>      
-                                            <li><i class="icon-ok"></i> Wifi</li>
-                                            <li><i class="icon-remove"></i>DVD</li>                     
-                                        </ul>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <ul class="general_info">
-                                            <li><i class="icon-ok"></i> Wifi</li>
-                                            <li><i class="icon-remove"></i>DVD</li>
-                                            <li><i class="icon-ok"></i> Balcony</li>
-                                            <li><i class="icon-ok"></i> Bedding</li>
-                                            <li><i class="icon-ok"></i> Parking</li>
-                                            <li><i class="icon-ok"></i> Computer</li>                           
-                                        </ul>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <ul class="general_info">
-                                            <li><i class="icon-ok"></i> Radio</li>
-                                            <li><i class="icon-remove"></i>Terrace</li>                              
-                                            <li><i class="icon-remove"></i>Use of pool</li>
-                                            <li><i class="icon-ok"></i> Microwave</li>
-                                            <li><i class="icon-ok"></i> Wifi</li>
-                                            <li><i class="icon-remove"></i>DVD</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-                            </div>
-                        </div>
-
-                        <!-- Divisor-->
-                        <div class="divisor">
-                            <div class="circle_left"></div>
-                            <div class="circle_right"></div>
-                        </div>
-                        <!-- End Divisor-->
-                        
-                    </div> 
-                    <!-- END TAB 7 --> 
-
-                    <!-- Tab 8 -->      
-                    <div id="tab8" class="tab_content">                
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h4>General Features</h4>
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <ul class="general_info">
-                                            <li><i class="icon-ok"></i> Air conditioning</li>
-                                            <li><i class="icon-ok"></i> Balcony</li>
-                                            <li><i class="icon-ok"></i> Bedding</li>
-                                            <li><i class="icon-remove"></i>Cable TV</li>      
-                                            <li><i class="icon-ok"></i> Wifi</li>
-                                            <li><i class="icon-remove"></i>DVD</li>                     
-                                        </ul>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <ul class="general_info">
-                                            <li><i class="icon-ok"></i> Wifi</li>
-                                            <li><i class="icon-remove"></i>DVD</li>
-                                            <li><i class="icon-ok"></i> Balcony</li>
-                                            <li><i class="icon-ok"></i> Bedding</li>
-                                            <li><i class="icon-ok"></i> Parking</li>
-                                            <li><i class="icon-ok"></i> Computer</li>                           
-                                        </ul>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <ul class="general_info">
-                                            <li><i class="icon-ok"></i> Radio</li>
-                                            <li><i class="icon-remove"></i>Terrace</li>                              
-                                            <li><i class="icon-remove"></i>Use of pool</li>
-                                            <li><i class="icon-ok"></i> Microwave</li>
-                                            <li><i class="icon-ok"></i> Wifi</li>
-                                            <li><i class="icon-remove"></i>DVD</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-                            </div>
-                        </div>
-
-                        <!-- Divisor-->
-                        <div class="divisor">
-                            <div class="circle_left"></div>
-                            <div class="circle_right"></div>
-                        </div>
-                        <!-- End Divisor-->
-                        
-                    </div> 
-                    <!-- END TAB 8 --> 
 
                 </div>
                 <!--END CONTAINER TABS-->
