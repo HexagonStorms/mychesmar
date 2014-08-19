@@ -13,7 +13,7 @@
         <link href="/css/style.css" rel="stylesheet" media="screen">  
 
         <!-- Skins Theme -->
-        <link href="#" rel="stylesheet" media="screen" class="skin">
+        <link href="/js/jquery.min.js" rel="stylesheet" media="screen" class="skin">
 
         <!-- Favicons -->
         <link rel="shortcut icon" href="/img/icons/favicon.ico">
