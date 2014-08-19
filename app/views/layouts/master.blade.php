@@ -10,16 +10,16 @@
         <!-- Mobile Metas -->
         <meta name="viewport" content="width=device-width,  minimum-scale=1,  maximum-scale=1">
         <!-- Your styles -->
-        <link href="css/style.css" rel="stylesheet" media="screen">  
+        <link href="/css/style.css" rel="stylesheet" media="screen">  
 
         <!-- Skins Theme -->
         <link href="#" rel="stylesheet" media="screen" class="skin">
 
         <!-- Favicons -->
-        <link rel="shortcut icon" href="img/icons/favicon.ico">
-        <link rel="apple-touch-icon" href="img/icons/apple-touch-icon.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="img/icons/apple-touch-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="img/icons/apple-touch-icon-114x114.png">  
+        <link rel="shortcut icon" href="/img/icons/favicon.ico">
+        <link rel="apple-touch-icon" href="/img/icons/apple-touch-icon.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/img/icons/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/img/icons/apple-touch-icon-114x114.png">  
 
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
@@ -104,7 +104,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-3 logo">
-                            <a href="#"><img src="img/chesmarlogo200x46.png" alt="chesmar logo"></a>
+                            <a href="#"><img src="/img/chesmarlogo200x46.png" alt="chesmar logo"></a>
                         </div>
                         <!-- Menu-->
                         <ul id="menu" class="col-md-9 sf-menu">
@@ -267,27 +267,27 @@
    
         <!-- ======================= JQuery libs =========================== -->
         <!-- Core JS Libraries -->
-        <script src="js/jquery.min.js"></script>         
+        <script src="/js/jquery.min.js"></script>         
         <!--Nav-->
-        <script type="text/javascript" src="js/nav/tinynav.js"></script> 
-        <script type="text/javascript" src="js/nav/superfish.js"></script>  
-        <script type="text/javascript" src="js/nav/hoverIntent.js"></script>              
+        <script type="text/javascript" src="/js/nav/tinynav.js"></script> 
+        <script type="text/javascript" src="/js/nav/superfish.js"></script>  
+        <script type="text/javascript" src="/js/nav/hoverIntent.js"></script>              
         <!--Totop-->
-        <script type="text/javascript" src="js/totop/jquery.ui.totop.js" ></script>  
+        <script type="text/javascript" src="/js/totop/jquery.ui.totop.js" ></script>  
         <!--Slide-->
-        <script type="text/javascript" src="js/slide/camera.js" ></script>      
-        <script type='text/javascript' src='js/slide/jquery.easing.1.3.min.js'></script> 
+        <script type="text/javascript" src="/js/slide/camera.js" ></script>      
+        <script type='text/javascript' src='/js/slide/jquery.easing.1.3.min.js'></script> 
         <!--owlcarousel-->
-        <script type='text/javascript' src='js/owlcarousel/owl.carousel.js'></script> 
+        <script type='text/javascript' src='/js/owlcarousel/owl.carousel.js'></script> 
         <!--efect_switcher-->
-        <script type='text/javascript' src='js/efect_switcher/jquery.content-panel-switcher.js'></script>         
+        <script type='text/javascript' src='/js/efect_switcher/jquery.content-panel-switcher.js'></script>         
         <!--Theme Options-->
-        <script type="text/javascript" src="js/theme-options/theme-options.js"></script>
-        <script type="text/javascript" src="js/theme-options/jquery.cookies.js"></script> 
+        <script type="text/javascript" src="/js/theme-options/theme-options.js"></script>
+        <script type="text/javascript" src="/js/theme-options/jquery.cookies.js"></script> 
         <!-- Bootstrap.js-->
-        <script src="js/bootstrap/bootstrap.js"></script>
+        <script src="/js/bootstrap/bootstrap.js"></script>
         <!--fUNCTIONS-->
-        <script type="text/javascript" src="js/main.js"></script>
+        <script type="text/javascript" src="/js/main.js"></script>
         <!-- ======================= End JQuery libs =========================== -->
     </body>
 </html>

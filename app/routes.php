@@ -13,3 +13,5 @@
 
 Route::get('/', 'HomeController@home');
 
+Route::get('/floorplans/bryce', 'HomeController@bryce');
+

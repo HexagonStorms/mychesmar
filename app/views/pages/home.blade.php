@@ -104,9 +104,9 @@ Riata Homes by Chesmar | Home
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
                 <div class="item_property">
                     <div class="head_property">
-                      <a href="properties.html">
-                        <img src="img/property/samplefloorplan1.jpg" alt="Image">
-                        <h5>Floor Plan #1</h5>
+                      <a href="/floorplans/bryce">
+                        <img src="/img/property/samplefloorplan1.jpg" alt="Image">
+                        <h5>Bryce</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
@@ -124,7 +124,7 @@ Riata Homes by Chesmar | Home
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="img/property/samplefloorplan2.jpg" alt="Image">
+                        <img src="/img/property/samplefloorplan2.jpg" alt="Image">
                         <h5>Floor Plan #2</h5>
                       </a>
                     </div>                        
@@ -143,7 +143,7 @@ Riata Homes by Chesmar | Home
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="img/property/samplefloorplan3.jpg" alt="Image">
+                        <img src="/img/property/samplefloorplan3.jpg" alt="Image">
                         <h5>Floor Plan #3</h5>
                       </a>
                     </div>                        
@@ -162,7 +162,7 @@ Riata Homes by Chesmar | Home
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="img/property/samplefloorplan4.jpg" alt="Image">
+                        <img src="/img/property/samplefloorplan4.jpg" alt="Image">
                         <h5>Floor Plan #4</h5>
                       </a>
                     </div>                        

@@ -15,14 +15,17 @@ class HomeController extends BaseController {
 	|
 	*/
 
-	public function showWelcome()
-	{
-		return View::make('hello');
-	}
 
-		public function home()
+	public function home()
 	{
 		return View::make('pages.home');
+	}
+
+// Floor Plans
+
+	public function bryce()
+	{
+		return View::make('floorplans.bryce');
 	}
 
 }
