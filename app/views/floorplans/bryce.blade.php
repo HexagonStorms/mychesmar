@@ -159,7 +159,7 @@ Floor Plans | Bryce
                             <div class="col-xs-12">
                                 <h4>Interior</h4>
                                 <ul class="general_info">
-                                    <li></li>
+                                    <li>test</li>
                                     
                                 </ul>
                             </div>
