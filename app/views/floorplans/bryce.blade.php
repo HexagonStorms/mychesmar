@@ -131,7 +131,14 @@ Floor Plans | Bryce
                                 <ul class="general_info">
                                     <li>Covered patio included on all homes</li>
                                     <li>3 sides brick</li>
-                                    
+                                    <li>Rustic knotty Alder wood front door with clavos</li>
+                                    <li>Divided light windows at front elevations</li>
+                                    <li>Hardiplank exterior trim materials with 15 year manufacturer’s limited warranty</li>
+                                    <li>Cemplank exterior siding and trim with 25 year manufacturer’s limited warranty</li>
+                                    <li>Pre-plumbed with Home Team Taexx Pest Control System</li>
+                                    <li>Beautiful landscaping to include full sod, seasonal shrubs &amp; two trees</li>
+                                    <li>Fenced rear yard</li>
+                                    <li>Full-yard irrigation system </li>
                                 </ul>
                             </div>
                         </div>  
