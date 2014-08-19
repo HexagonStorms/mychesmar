@@ -13,8 +13,8 @@ Floor Plans | Bryce
     <div class="container">
         <div class="row"> 
             <div class="col-md-9">
-                <h1>DETAILS PROPERTIES
-                    <span><a href="index.html">Home </a> / Details Properties</span>
+                <h1>FLOOR PLANS
+                    <span><a href="/floorplans/bryce">BRYCE</a></span>
                 </h1>
             </div>     
         </div>
@@ -25,76 +25,6 @@ Floor Plans | Bryce
 <!-- End content info -->
 <section class="content_info">
     <div class="container">
-        <!-- filter-horizontal -->                  
-        <div class="filter_horizontal">
-            <div class="container">
-                <div class="row">
-                    <form action="properties.html">
-                        <div class="col-md-2">
-                            <select name="location">
-                                <option value="" selected="selected">-- Location --</option>
-                                 <option value="0">New York</option>
-                                 <option value="1">Los Angeles</option>
-                                 <option value="2">Chicago</option>
-                                 <option value="3">Miami</option>
-                                 <option value="4">San Francisco</option>
-                                 <option value="5">Boston</option>
-                                 <option value="6">Philadelphia</option>
-                                 <option value="7">Dallas</option>                    
-                             </select>
-                        </div>
-                        <div class="col-md-2">                                   
-                            <select name="pricing">
-                                <option>Price Range</option>                                  
-                                <option value="info_price">0 - 300.000</option>
-                                <option value="info_price">300.000 - 500.000</option>
-                                <option value="info_price">500.000 - 800.000</option>
-                                <option value="info_price">800.000 - 1.000.000</option>
-                                <option value="info_price">10.000.000 +</option>    
-                            </select>
-                        </div>
-                        <div class="col-md-2">
-                            <select name="area">
-                                <option>Area</option>
-                                <option value="info_area">0 - 60 m²</option>
-                                <option value="info_area">60 m² - 90 m²</option>
-                                <option value="info_area">90 m² - 150 m²</option>
-                                <option value="info_area">150 m² - 240 m²</option>
-                                <option value="info_area">240 m² - 360 m²</option>
-                                <option value="info_area">360 m² - 480 m²</option>
-                                <option value="info_area">480 m² - 600 m²</option>
-                                <option value="info_area">More 600 m²</option>
-                            </select>
-                        </div>
-                        <div class="col-md-2">                                   
-                            <select name="pricing">
-                                <option>Beds</option>                                  
-                                <option value="info_price">1</option>
-                                <option value="info_price">2</option>
-                                <option value="info_price">3</option>
-                                <option value="info_price">4</option>
-                                <option value="info_price">5</option>    
-                            </select>
-                        </div>
-                        <div class="col-md-2">
-                            <select name="area">
-                                <option>Baths</option>
-                                <option value="info_area">1</option>
-                                <option value="info_area">2</option>
-                                <option value="info_area">3</option>
-                                <option value="info_area">4</option>
-                                <option value="info_area">5</option>
-                                <option value="info_area">6</option>
-                            </select>
-                        </div>
-                        <div class="col-md-2">
-                            <input type="submit" class="button" value="Search">
-                        </div> 
-                    </form>       
-                </div>
-            </div>
-        </div>
-        <!-- End filter-horizontal -->
 
         <div class="row padding_top">
             <div class="col-md-8">
@@ -452,72 +382,5 @@ Floor Plans | Bryce
     </div>
 </section>
 <!-- End content info-->
-
-<!-- Sponsors-->
-<div class="container">
-    <ul class="sponsors">
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="/img/sponsors/1.png" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="/img/sponsors/2.png" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="/img/sponsors/3.png" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="/img/sponsors/4.png" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="/img/sponsors/5.png" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="/img/sponsors/3.png" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="/img/sponsors/4.png" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="/img/sponsors/3.png" alt="Image"></a></li>
-    </ul>
-</div>
-<!-- End Sponsors-->
-
-<!-- Full info-->
-<section class="full_info">
-    <div class="container">
-        <div class="row text-center service-process">
-            <!-- Step 1 -->
-            <a href="step_1.html">
-              <div class="col-md-3">
-                  <div class="thumbnail-process">
-                    <div class="caption-head">
-                      <em class="caption-icon fa fa-check icon-big"></em>                            
-                      <h2 class="caption-title">Register</h2>
-                    </div>
-                  </div>
-              </div>
-            </a>
-
-            <!-- Step 2 -->
-            <a href="step_2.html">
-              <div class="col-md-3">
-                  <div class="thumbnail-process">
-                    <div class="caption-head">
-                      <em class="caption-icon fa fa-edit icon-big"></em>
-                        <h2 class="caption-title">Publish</h2>
-                    </div>
-                  </div>
-              </div>
-            </a>
-
-            <!-- Step 3 -->
-            <div class="col-md-3">
-                <div class="thumbnail-process">
-                  <div class="caption-head">
-                    <em class="caption-icon fa fa-credit-card icon-big"></em>
-                      <h2 class="caption-title">Monetize</h2>
-                  </div>
-                </div>
-            </div>
-
-            <!-- Step 4 -->
-            <div class="col-md-3">
-                <div class="thumbnail-process">
-                  <div class="caption-head">
-                    <em class="caption-icon fa fa-plane icon-big"></em>
-                      <h2 class="caption-title">Success</h2>
-                  </div>                           
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End Full info-->
 
 @stop

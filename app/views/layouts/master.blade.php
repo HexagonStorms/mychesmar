@@ -153,17 +153,6 @@
 
             @yield('content')
 
-            <!-- Footer area - footer_top -->
-            <footer class="section_area footer_top">
-                <div class="container center"> 
-                    <h1>Get in touch</h1>
-                    <p>Let Ralph show you why Riata Homes are perfect for you.</p>
-                    <a href="#" class="button">Contact</a>                
-                    <br><br>
-                </div>
-            </footer>
-            <!-- End Footer area - footer_top -->
-
             <!-- Footer area - footer_medium -->
             <footer class="section_area footer_medium">
                 <div class="container">
