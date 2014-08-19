@@ -30,11 +30,9 @@ Floor Plans | Bryce
             <div class="col-md-8">
                 <div class="more_slide tooltip_hover">
                     <ul>
-                        <li title="Print Propertie" data-toggle="tooltip"><i class="fa fa-print"></i><a href="#">Print</a></li>
-                        <li title="Chat Online" data-toggle="tooltip"><i class="fa fa-comment"></i><a href="#">Live chat</a></li>
-                        <li title="Contact Us" data-toggle="tooltip"><i class="fa fa-envelope"></i><a href="#">Contact</a></li>
-                        <li title="favorite propertie" data-toggle="tooltip"><i class="fa fa-star"></i><a href="#">Favorites</a></li>
-                        <li title="Publish info" data-toggle="tooltip"><i class="fa fa-calendar"></i><a href="#">Publish: 09/06/2013</a></li>
+                        <li title="Print" data-toggle="tooltip"><i class="fa fa-print"></i><a href="#">Print</a></li>
+                        <li title="Call Ralph" data-toggle="tooltip"><i class="fa fa-phone"></i><a href="#">(210) 215-1090</a></li>
+                        <li title="Contact" data-toggle="tooltip"><i class="fa fa-envelope"></i><a href="mailto:ralphplaza@hotmail.com?Subject=Hello%20Ralph">Email</a></li>
                     </ul>
                 </div>
                 <!-- Slide News-->           
@@ -142,9 +140,9 @@ Floor Plans | Bryce
                         <!-- Map-->      
                         <div class="row">   
                           <div class="col-md-12">
-                              <h4>Map Propertie</h4>             
+                              <h4>Riata Homes</h4>             
                               <div class="map_area">
-                                <iframe src="https://maps.google.es/maps?f=d&amp;source=s_q&amp;hl=es&amp;geocode=%3BCUBxZFSzLmtjFXFAbQIdK8KW-yk7CD_TpU_CiTFi_nfhBo8LyA&amp;q=new+york&amp;aq=&amp;sll=40.396764,-3.713379&amp;sspn=9.61761,19.753418&amp;ie=UTF8&amp;hq=&amp;hnear=Nueva+York,+Estados+Unidos&amp;t=m&amp;daddr=Nueva+York,+EEUU&amp;ll=40.859525,-73.959961&amp;spn=0.311592,0.411987&amp;z=10&amp;iwloc=ddw1&amp;output=embed"></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d55496.99800854714!2d-98.27550805713102!3d29.616405499126632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!1i0!3e0!4m0!4m5!1s0x865c93e7a404e659%3A0x2620d09eeee55c09!2s2901+Mineral+Springs%2C+Schertz%2C+TX+78108!3m2!1d29.6163353!2d-98.2411752!5e0!3m2!1sen!2sus!4v1408484221839"></iframe>
                               </div>
                           </div>
                         </div>
@@ -260,7 +258,7 @@ Floor Plans | Bryce
                 <div class="col-md-12">
                     <!-- Title-->
                     <div class="titles">
-                        <h1>RECENT PROPERTIES</h1>
+                        <h1>OTHER FLOOR PLANS</h1>
                     </div>
                     <!-- End Title-->
                 </div>
