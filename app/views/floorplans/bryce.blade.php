@@ -157,7 +157,7 @@ Floor Plans | Bryce
                     <div id="tab3" class="tab_content">                
                         <div class="row">
                             <div class="col-xs-12">
-                                <h4>Exterior</h4>
+                                <h4>Interior</h4>
                                 <ul class="general_info">
                                     <li></li>
                                     
