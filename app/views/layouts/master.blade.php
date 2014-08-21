@@ -54,7 +54,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-3 logo page-scroll">
-                            <a href="#"><img src="/img/chesmarlogo200x46.png" alt="chesmar logo"></a>
+                            <a href="/"><img src="/img/chesmarlogo200x46.png" alt="chesmar logo"></a>
                         </div>
                         <!-- Menu-->
                         <ul id="menu" class="col-md-9 sf-menu page-scroll">

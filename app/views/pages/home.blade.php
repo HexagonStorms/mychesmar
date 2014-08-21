@@ -105,14 +105,14 @@ Riata Homes by Chesmar | Home
                 <div class="item_property">
                     <div class="head_property">
                       <a href="/floorplans/bryce">
-                        <img src="/img/property/samplefloorplan1.jpg" alt="Image">
+                        <img src="/img/property/Bryce_floorplanx325.png" alt="Bryce floor plan">
                         <h5>Bryce</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Bed/Bath:</strong><span>2 bed, 3 bath</span></li>
-                            <li><strong>SQ FEET:</strong><span>800 Sq. Ft.</span></li>
+                            <li><strong>Bed/Bath/Story:</strong><span>3 bed, 2 bath, 1 story</span></li>
+                            <li><strong>SQ FEET:</strong><span>1,921 Sq. Ft</span></li>
                         </ul>                                 
                     </div>
                   </div>

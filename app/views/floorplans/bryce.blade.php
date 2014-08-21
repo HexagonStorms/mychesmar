@@ -30,7 +30,7 @@ Floor Plans | Bryce
             <div class="col-md-8">
                 <div class="more_slide tooltip_hover">
                     <ul>
-                        <li title="Print" data-toggle="tooltip"><i class="fa fa-print"></i><a href="#">Print PDF</a></li>
+                        <li title="View floor plan" data-toggle="tooltip"><i class="fa fa-file-pdf-o"></i><a href="http://chesmar.com/sites/chesmar.com/files/elevations/Bryce%20v3.0%20BR%20FLRPLN.pdf">View Floor Plan (PDF)</a></li>
                         <li title="Call Ralph" data-toggle="tooltip"><i class="fa fa-phone"></i><a href="#">(210) 215-1090</a></li>
                         <li title="Contact" data-toggle="tooltip"><i class="fa fa-envelope"></i><a href="mailto:ralphplaza@hotmail.com?Subject=Hello%20Ralph">Email</a></li>
                     </ul>
@@ -39,7 +39,7 @@ Floor Plans | Bryce
     <div id="wowslider-container1">
         <div class="ws_images">
             <ul>
-                <li><img src="/img/property/samplefloorplan1x440.png" alt="samplefloorplan1" title="samplefloorplan1" id="wows1_0"/></li>
+                <li><img src="/img/property/samplefloorplan.png" alt="samplefloorplan1" title="samplefloorplan1" id="wows1_0"/></li>
                 <li><img src="/img/property/samplefloorplan1x440.png" alt="samplefloorplan2" title="samplefloorplan2" id="wows1_1"/></li>
                 <li><img src="/img/property/samplefloorplan1x440.png" alt="samplefloorplan3" title="samplefloorplan3" id="wows1_2"/></li>
                 <li><img src="/img/property/samplefloorplan1x440.png" alt="samplefloorplan4" title="samplefloorplan4" id="wows1_3"/></li>
