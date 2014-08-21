@@ -160,6 +160,19 @@ Floor Plans | Bryce
                                 <h4>Interior</h4>
                                 <ul class="general_info">
                                     <li>Rounded drywall corners</li>
+                                    <li>Raised ceilings per plan</li>
+                                    <li>Arched drywall openings per plan</li>
+                                    <li>Open rail with wood spindles at stairs and overlooks per plan</li>
+                                    <li>Cheyenne raised panel interior doors</li>
+                                    <li>Kwikset distinctive door hardware with brushed nickel finish</li>
+                                    <li>5 1/4" decorative baseboards with oversized 2 1/2" door casing</li>
+                                    <li>2” faux-wood blinds in all operable windows, and master bath window</li>
+                                    <li>Integral blind at rear door glass insert</li>
+                                    <li>Ceramic tile flooring in foyer, kitchen, breakfast room, bathrooms, and laundry room</li>
+                                    <li>High quality carpet with 5 year wear limited warranty and 1/2” –5# carpet pad</li>
+                                    <li>MDF Wood Shelving with stained rods</li>
+                                    <li>PPG high quality low VOC interior paint.</li>
+                                    <li>Choose from 5 decorator colors for walls with white ceilings, doors, and trim</li>
                                     
                                 </ul>
                             </div>
