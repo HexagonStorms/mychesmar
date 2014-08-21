@@ -15,6 +15,13 @@
         <!-- Skins Theme -->
         <link href="/js/jquery.min.js" rel="stylesheet" media="screen" class="skin">
 
+        <!-- Custom Adjustments -->
+        <link href="/css/riatastyle.css" rel="stylesheet" media="screen">
+
+        <!-- WOW Slider -->
+        <link rel="stylesheet" type="text/css" href="/css/stylewow.css" />
+        <script type="text/javascript" src="/js/wow/jquerywow.js"></script>
+
         <!-- Favicons -->
         <link rel="shortcut icon" href="/img/icons/favicon.ico">
         <link rel="apple-touch-icon" href="/img/icons/apple-touch-icon.png">
@@ -277,6 +284,9 @@
         <script src="/js/bootstrap/bootstrap.js"></script>
         <!--fUNCTIONS-->
         <script type="text/javascript" src="/js/main.js"></script>
+        <!-- Wow Slider -->
+        <script type="text/javascript" src="/js/wow/wowslider.js"></script>
+        <script type="text/javascript" src="/js/wow/scriptwow.js"></script>
         <!-- ======================= End JQuery libs =========================== -->
     </body>
 </html>

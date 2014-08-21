@@ -26,35 +26,43 @@ Floor Plans | Bryce
 <section class="content_info">
     <div class="container">
 
-        <div class="row padding_top">
+        <div class="row">
             <div class="col-md-8">
                 <div class="more_slide tooltip_hover">
                     <ul>
-                        <li title="Print" data-toggle="tooltip"><i class="fa fa-print"></i><a href="#">Print</a></li>
+                        <li title="Print" data-toggle="tooltip"><i class="fa fa-print"></i><a href="#">Print PDF</a></li>
                         <li title="Call Ralph" data-toggle="tooltip"><i class="fa fa-phone"></i><a href="#">(210) 215-1090</a></li>
                         <li title="Contact" data-toggle="tooltip"><i class="fa fa-envelope"></i><a href="mailto:ralphplaza@hotmail.com?Subject=Hello%20Ralph">Email</a></li>
                     </ul>
                 </div>
-                <!-- Slide News-->           
-                <div class="camera_wrap" id="slide_details">
-                    <!-- Item Slide -->  
-                    <div  data-src="/img/property/5.jpg">
-                        <div class="camera_property fadeFromBottom">
-                            <a href="#"><h4>196 ROYAL BLUFF RD JACKSONVILLE NORTH CAROLINA 50212</h4></a>
-                            <h1><span>$</span> 500</h1> <p>Pellentesque habitant morbi tristique senectus et netus et.</p>            
-                        </div>
-                    </div>
-                    <!-- End Item Slide -->  
-                    <!-- Item Slide -->  
-                    <div  data-src="/img/property/7.jpg">
-                        <div class="camera_property fadeFromBottom">
-                            <a href="#"><h4>196 ROYAL BLUFF RD JACKSONVILLE NORTH CAROLINA 50212</h4></a>
-                            <h1><span>$</span> 500</h1> <p>Pellentesque habitant morbi tristique senectus et netus et.</p>            
-                        </div>
-                    </div>
-                    <!-- End Item Slide -->                             
-                </div>
-                <!-- End Slide-->  
+    <!-- Start WOWSlider -->
+    <div id="wowslider-container1">
+        <div class="ws_images">
+            <ul>
+                <li><img src="/img/property/samplefloorplan1x440.png" alt="samplefloorplan1" title="samplefloorplan1" id="wows1_0"/></li>
+                <li><img src="/img/property/samplefloorplan1x440.png" alt="samplefloorplan2" title="samplefloorplan2" id="wows1_1"/></li>
+                <li><img src="/img/property/samplefloorplan1x440.png" alt="samplefloorplan3" title="samplefloorplan3" id="wows1_2"/></li>
+                <li><img src="/img/property/samplefloorplan1x440.png" alt="samplefloorplan4" title="samplefloorplan4" id="wows1_3"/></li>
+                <li><img src="/img/property/samplefloorplan1x440.png" alt="samplefloorplan5" title="samplefloorplan5" id="wows1_4"/></li>
+                <li><img src="/img/property/samplefloorplan1x440.png" alt="samplefloorplan6" title="samplefloorplan6" id="wows1_5"/></li>
+                <li><img src="/img/property/samplefloorplan1x440.png" alt="samplefloorplan7" title="samplefloorplan7" id="wows1_6"/></li>
+                <li><img src="/img/property/samplefloorplan1x440.png" alt="samplefloorplan8" title="samplefloorplan8" id="wows1_7"/></li>
+            </ul>
+        </div>
+        <div class="ws_thumbs">
+            <div>
+                <a href="#" title="samplefloorplan1"><img src="/img/property/samplefloorplan1x440.png" alt="" /></a>
+                <a href="#" title="samplefloorplan2"><img src="/img/property/samplefloorplan1x440.png" alt="" /></a>
+                <a href="#" title="samplefloorplan3"><img src="/img/property/samplefloorplan1x440.png" alt="" /></a>
+                <a href="#" title="samplefloorplan4"><img src="/img/property/samplefloorplan1x440.png" alt="" /></a>
+                <a href="#" title="samplefloorplan5"><img src="/img/property/samplefloorplan1x440.png" alt="" /></a>
+                <a href="#" title="samplefloorplan6"><img src="/img/property/samplefloorplan1x440.png" alt="" /></a>
+                <a href="#" title="samplefloorplan7"><img src="/img/property/samplefloorplan1x440.png" alt="" /></a>
+                <a href="#" title="samplefloorplan8"><img src="/img/property/samplefloorplan1x440.png" alt="" /></a>
+            </div>
+        </div>
+    </div>
+    <!-- End Slideshow -->
             </div>
             <div class="col-md-4">
                 <div class="description">
@@ -66,7 +74,7 @@ Floor Plans | Bryce
                         <li><strong>Story:</strong><span>1 story</span></li>
                         <li><strong>Bathrooms:</strong><span>2</span></li>
                         <li><strong>Bedrooms:</strong><span>3</span></li>
-                        <li><strong>Tour:</strong><span><a href="http://www.tourbuzz.net/public/vtour/display/216796?idx=1">View</a></span></li>
+                        <li><strong>Picture Tour:</strong><span><a href="http://www.tourbuzz.net/public/vtour/display/216796?idx=1">View</a></span></li>
                     </ul>
                 </div>
             </div> 
