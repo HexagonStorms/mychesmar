@@ -13,7 +13,7 @@
         <link href="/css/style.css" rel="stylesheet" media="screen">  
 
         <!-- Skins Theme -->
-        <link href="/js/jquery.min.js" media="screen" class="skin">
+        <link href="/js/jquery.min.js" rel="stylesheet" media="screen" class="skin">
 
         <!-- Custom Adjustments -->
         <link href="/css/riatastyle.css" rel="stylesheet" media="screen">
@@ -44,70 +44,10 @@
         <!-- Skins Changer-->
         <script type="text/javascript" src="http://www.google.com/jsapi"></script>
     </head>
-    <body>
-        <!-- Theme-options -->
-        <div id="theme-options">
-              <div class="openclose"></div>
-              <div class="title">
-                 <span>THEME OPTIONS</span>
-                 <p>Choose a combination of predefined colors here. Here are some examples. You can create any additional number on your backend theme, also can choose the background you want and four differents layouts.</p>
-              </div>
-              <span>SKINS COLOR</span>
-              <ul class="colorbox">      
-                  <li><a class="red" href="?theme=red" title="Red Skin"></a></li>
-                  <li><a class="blue" href="?theme=blue" title="Blue Skin"></a></li>                    
-                  <li><a class="yellow" href="?theme=yellow" title="Yellow Skin"></a></li>
-                  <li><a class="green" href="?theme=green" title="Green Skin"></a></li>
-                  <li><a class="orange" href="?theme=orange" title="Orange Skin"></a></li>
-                  <li><a class="purple" href="?theme=purple" title="Purple Skin"></a></li>
-                  <li><a class="pink" href="?theme=pink" title="Pink Skin"></a></li>
-                  <li><a class="cocoa" href="?theme=cocoa" title="Cocoa Skin"></a></li>
-              </ul>
-              <span>LAYOUT STYLE</span>
-              <ul class="layout-style">      
-                    <li class="wide">Wide</li>
-                    <li class="semiboxed active">Semiboxed</li> 
-                    <li class="boxed">Boxed</li> 
-                    <li class="boxed-margin">Boxed Margin</li>               
-              </ul>             
-              <div class="patterns">
-                  <span>BACKGROUND PATTERNS</span>
-                  <ul class="backgrounds">
-                      <li class="bgnone" title="None - Default"></li>
-                      <li class="bg1"></li>
-                      <li class="bg2"></li>
-                      <li class="bg3"></li>
-                      <li class="bg4 "></li>
-                      <li class="bg5"></li> 
-                      <li class="bg6"></li>
-                      <li class="bg7"></li>
-                      <li class="bg8"></li>
-                      <li class="bg9 "></li>
-                      <li class="bg10"></li> 
-                      <li class="bg11"></li> 
-                      <li class="bg12"></li> 
-                      <li class="bg13"></li> 
-                      <li class="bg14"></li> 
-                      <li class="bg15"></li> 
-                      <li class="bg16"></li> 
-                      <li class="bg17"></li> 
-                      <li class="bg18"></li> 
-                      <li class="bg19"></li> 
-                      <li class="bg20"></li> 
-                      <li class="bg21"></li> 
-                      <li class="bg22"></li> 
-                      <li class="bg23"></li> 
-                      <li class="bg24"></li> 
-                      <li class="bg25"></li> 
-                      <li class="bg26"></li>                   
-                  </ul>  
-              </div>
-        </div>
-        <!-- End Theme-options -->   
+    <body> 
 
         <!-- layout-->
         <div id="layout">
-
 
             <!-- Nav-->
             <nav>
@@ -117,18 +57,19 @@
                             <a href="#"><img src="/img/chesmarlogo200x46.png" alt="chesmar logo"></a>
                         </div>
                         <!-- Menu-->
-                        <ul id="menu" class="col-md-9 sf-menu">
-                            <li><a href="/">HOME</a></li>
-                            <li><a href="#">ABOUT</a></li>
-                            <li><a class="page-scroll" href="#available-homes">AVAILABLE HOMES</a></li>  
+                        <ul id="menu" class="col-md-9 sf-menu page-scroll">
+                            <li><a class="page-scroll" href="/">HOME</a></li>
+                            <li><a class="page-scroll" href="#">ABOUT</a></li>
                             <li>
-                                <a href="#floor-plans">FLOOR PLANS</a>
+                                <a class="page-scroll" href="#floor-plans">FLOOR PLANS</a>
                                 <ul>                                  
                                     <li><a href="/floorplans/bryce">Bryce</a></li>
                                 </ul>
-                            </li> 
-                            <li><a href="#">LOCAL AREA</a></li>                                            
-                            <li><a href="contact.html">CONTACT</a></li>
+                            </li>
+                            <li><a class="page-scroll" href="#design">DESIGN</a></li> 
+                            <li><a class="page-scroll" href="#available-homes">AVAILABLE HOMES</a></li>  
+                            <li><a class="page-scroll" href="#">LOCAL AREA</a></li>                                            
+                            <li><a class="page-scroll" href="#contact">CONTACT</a></li>
                         </ul>
                         <!-- End Menu-->
                     </div>

@@ -573,7 +573,7 @@ Riata Homes by Chesmar | Home
 <!-- End Full info-->
 
 <!-- Footer area - footer_top -->
-<footer class="section_area footer_top">
+<footer class="section_area footer_top" id="contact">
     <div class="container center"> 
         <h1>Get in touch</h1>
         <p>Let Ralph show you why Riata Homes are perfect for you.</p>
