@@ -82,8 +82,8 @@ Riata Homes by Chesmar | Home
 </header>
 <!-- End Header-->
 
-<!-- content info -->
-<div class="content_info">
+<!-- Floor Plans -->
+<div class="content_info no-padding-top" id="floor-plans">
     <div class="container">
       
         <!-- Title-->
@@ -98,10 +98,10 @@ Riata Homes by Chesmar | Home
         </div>
         <!-- End Title-->
 
-        <!-- Floor Plans-->
+        <!-- Start Floor Plan List -->
         <div class="row">
             <!-- Floor Plan #1 -->
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="item_property">
                     <div class="head_property">
                       <a href="/floorplans/bryce">
@@ -117,10 +117,10 @@ Riata Homes by Chesmar | Home
                     </div>
                   </div>
             </div>
-            <!-- Floor Plan #1 -->
+            <!-- End Floor Plan #1 -->
 
             <!-- Floor Plan #2 -->
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
@@ -136,10 +136,10 @@ Riata Homes by Chesmar | Home
                     </div>
                   </div>
             </div>
-            <!-- Floor Plan #2 -->
+            <!-- End Floor Plan #2 -->
 
             <!-- Floor Plan #3 -->
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
@@ -155,10 +155,10 @@ Riata Homes by Chesmar | Home
                     </div>
                   </div>
             </div>
-            <!-- Floor Plan #3 -->
+            <!-- End Floor Plan #3 -->
 
             <!-- Floor Plan #4 -->
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
@@ -174,10 +174,10 @@ Riata Homes by Chesmar | Home
                     </div>
                   </div>
             </div>
-            <!-- Floor Plan #4 -->
+            <!-- End Floor Plan #4 -->
           
             <!-- Floor Plan #5 -->
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
@@ -193,10 +193,10 @@ Riata Homes by Chesmar | Home
                     </div>
                   </div>
             </div>
-            <!-- Floor Plan #5 -->
+            <!-- End Floor Plan #5 -->
 
             <!-- Floor Plan #6 -->
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
@@ -212,10 +212,10 @@ Riata Homes by Chesmar | Home
                     </div>
                   </div>
             </div>
-            <!-- Floor Plan #6 -->
+            <!-- End Floor Plan #6 -->
 
             <!-- Floor Plan #7 -->
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
@@ -231,10 +231,10 @@ Riata Homes by Chesmar | Home
                     </div>
                   </div>
             </div>
-            <!-- Floor Plan #7 -->
+            <!-- End Floor Plan #7 -->
 
             <!-- Floor Plan #8 -->
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
@@ -248,14 +248,34 @@ Riata Homes by Chesmar | Home
                             <li><strong>SQ FEET:</strong><span>1800 Sq. Ft.</span></li>
                         </ul>                                 
                     </div>
-                  </div>
+                </div>
             </div>
-            <!-- Floor Plan #8 -->
-        </div>
-        <!-- End Row Properties-->
+            <!-- End Floor Plan #8 -->
 
-        <!-- Features -->
-        <div class="row">
+            <!-- Floor Plan #9 -->
+            <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="item_property">
+                    <div class="head_property">
+                      <a href="properties.html">
+                        <img src="img/property/samplefloorplan8.jpg" alt="Image">
+                        <h5>Floor Plan #8</h5>
+                      </a>
+                    </div>                        
+                    <div class="info_property">                                  
+                        <ul>
+                            <li><strong>Bed/Bath:</strong><span>4 bed, 4 bath</span></li>
+                            <li><strong>SQ FEET:</strong><span>1800 Sq. Ft.</span></li>
+                        </ul>                                 
+                    </div>
+                </div>
+            </div>
+            <!-- End Floor Plan #9 -->
+
+        </div>
+        <!-- End Row -->
+
+        <!-- Design Features -->
+        <div class="row" id="design">
             <!-- Title-->
             <div class="col-md-12">
                 <!-- Divisor-->
@@ -386,7 +406,7 @@ Riata Homes by Chesmar | Home
                 </div>
             </div>
 
-            <!-- Avaiable Homes -->
+            <!-- Start Available Home Carousel -->
             <div id="properties-carousel" class="properties-carousel">
                 <!-- Available Home #1-->
                 <div class="item_property">
@@ -404,7 +424,7 @@ Riata Homes by Chesmar | Home
                         </ul>                                 
                     </div>
                 </div>
-                <!-- Available Home #1 -->
+                <!-- End Available Home #1 -->
 
                 <!-- Available Home #2 -->
                 <div class="item_property">
