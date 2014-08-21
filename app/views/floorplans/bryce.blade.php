@@ -61,7 +61,7 @@ Floor Plans | Bryce
                     <h4>GENERAL DESCRIPTION</h4>
                     <p>Single-story home with three bedrooms plus study, two bathrooms, a formal dining room, an eat-in kitchen and breakfast, two-car attached garage, and a covered patio. Open-concept plan features raised ceilings and arched door openings. Private master suite features a tray ceiling and bay window. Backyard features a large covered patio with high ceiling.</p>
                     <ul class="info_details">                          
-                        <li><strong>Price:</strong><span> $236,990 </span></li>
+                        <li><strong>Starting Price:</strong><span> $236,990 </span></li>
                         <li><strong>Sq. FEET:</strong><span>1,921</span></li>
                         <li><strong>Story:</strong><span>1 story</span></li>
                         <li><strong>Bathrooms:</strong><span>2</span></li>
@@ -260,47 +260,55 @@ Floor Plans | Bryce
                     </div> 
                     <!-- END TAB 4 --> 
 
-                    <!-- Tab 5 -->      
+                    <!-- Tab 5: Addition Features -->      
                     <div id="tab5" class="tab_content">                
                         <div class="row">
                             <div class="col-md-6">
-                                <h4>General Features</h4>
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <ul class="general_info">
-                                            <li><i class="icon-ok"></i> Air conditioning</li>
-                                            <li><i class="icon-ok"></i> Balcony</li>
-                                            <li><i class="icon-ok"></i> Bedding</li>
-                                            <li><i class="icon-remove"></i>Cable TV</li>      
-                                            <li><i class="icon-ok"></i> Wifi</li>
-                                            <li><i class="icon-remove"></i>DVD</li>                     
-                                        </ul>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <ul class="general_info">
-                                            <li><i class="icon-ok"></i> Wifi</li>
-                                            <li><i class="icon-remove"></i>DVD</li>
-                                            <li><i class="icon-ok"></i> Balcony</li>
-                                            <li><i class="icon-ok"></i> Bedding</li>
-                                            <li><i class="icon-ok"></i> Parking</li>
-                                            <li><i class="icon-ok"></i> Computer</li>                           
-                                        </ul>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <ul class="general_info">
-                                            <li><i class="icon-ok"></i> Radio</li>
-                                            <li><i class="icon-remove"></i>Terrace</li>                              
-                                            <li><i class="icon-remove"></i>Use of pool</li>
-                                            <li><i class="icon-ok"></i> Microwave</li>
-                                            <li><i class="icon-ok"></i> Wifi</li>
-                                            <li><i class="icon-remove"></i>DVD</li>
-                                        </ul>
-                                    </div>
+                                <h4>Garage</h4>
+                                <div class="col-xs-12">
+                                    <ul class="general_info">
+                                        <li>Finished room with paint, texture and base molding</li>
+                                        <li>Wayne Dalton insulated steel garage door</li>
+                                        <li>One garage door opener &amp; two remote controls</li>                    
+                                    </ul>
                                 </div>
                             </div>
+
                             <div class="col-md-6">
-                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                                <h4>Electrical</h4>
+                                <div class="col-xs-12">
+                                    <ul class="general_info">
+                                        <li>Pre-wired for telephones in game room, kitchen, master bedroom, and study</li>
+                                        <li>Pre-wired for cable television outlets in family, game room, master bedroom, and study</li>
+                                        <li>Smoke and carbon monoxide detectors</li>
+                                        <li>Security System to include: 1 keypad, 1 siren, perimeter doors, and pre-wire for two devices (motion or glass break)</li>                  
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h4>Lighting</h4>
+                                <div class="col-xs-12">
+                                    <ul class="general_info">
+                                        <li>Brushed Nickel finish designer light fixtures</li>
+                                        <li>Ceiling fan with light fixture in family, game room, master bedroom, and study</li>
+                                        <li>Recessed can lighting in kitchen</li>
+                                        <li>Fluorescent lights in garage, master closet, and laundry</li>                  
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <h4>Plumbing</h4>
+                                <div class="col-xs-12">
+                                    <ul class="general_info">
+                                        <li>High Efficiency gas water heater</li>
+                                        <li>Pre-plumbed for water softener</li>
+                                        <li>Viega Pex, high pressure, high durability waterlines</li>               
+                                    </ul>
+                                </div>
                             </div>
                         </div>
 
@@ -314,47 +322,29 @@ Floor Plans | Bryce
                     </div> 
                     <!-- END TAB 5 --> 
 
-                    <!-- Tab 6 -->      
+                    <!-- Tab 6: Construction & Disclaimer -->      
                     <div id="tab6" class="tab_content">                
                         <div class="row">
-                            <div class="col-md-6">
-                                <h4>General Features</h4>
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <ul class="general_info">
-                                            <li><i class="icon-ok"></i> Air conditioning</li>
-                                            <li><i class="icon-ok"></i> Balcony</li>
-                                            <li><i class="icon-ok"></i> Bedding</li>
-                                            <li><i class="icon-remove"></i>Cable TV</li>      
-                                            <li><i class="icon-ok"></i> Wifi</li>
-                                            <li><i class="icon-remove"></i>DVD</li>                     
-                                        </ul>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <ul class="general_info">
-                                            <li><i class="icon-ok"></i> Wifi</li>
-                                            <li><i class="icon-remove"></i>DVD</li>
-                                            <li><i class="icon-ok"></i> Balcony</li>
-                                            <li><i class="icon-ok"></i> Bedding</li>
-                                            <li><i class="icon-ok"></i> Parking</li>
-                                            <li><i class="icon-ok"></i> Computer</li>                           
-                                        </ul>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-4 col-md-4">
-                                        <ul class="general_info">
-                                            <li><i class="icon-ok"></i> Radio</li>
-                                            <li><i class="icon-remove"></i>Terrace</li>                              
-                                            <li><i class="icon-remove"></i>Use of pool</li>
-                                            <li><i class="icon-ok"></i> Microwave</li>
-                                            <li><i class="icon-ok"></i> Wifi</li>
-                                            <li><i class="icon-remove"></i>DVD</li>
-                                        </ul>
-                                    </div>
+                            <div class="col-md-12">
+                                <h4>Construction</h4>
+                                <div class="col-xs-12">
+                                    <ul class="general_info">
+                                        <li>Chesmar 10-Year Home Buyer’s Warranty</li>
+                                        <li>3rd party inspections for quality assurance</li>
+                                        <li>Minimum of two scheduled meetings with superintendent prior to closing</li>
+                                        <li>Engineered post tension foundations</li>
+                                        <li>Engineered roof trusses and floor systems</li>                 
+                                    </ul>
                                 </div>
                             </div>
-                            <div class="col-md-6">
-                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h4><em>Disclaimer</em></h4>
+                                <div class="col-xs-12">
+                                    <p>Included features may vary based on the elevation and options selected and are subject to change without notice. Effective: 06/03/2013</p>
+                                </div>
                             </div>
                         </div>
 
