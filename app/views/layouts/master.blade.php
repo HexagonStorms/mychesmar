@@ -13,7 +13,7 @@
         <link href="/css/style.css" rel="stylesheet" media="screen">  
 
         <!-- Skins Theme -->
-        <link href="/js/jquery.min.js" rel="stylesheet" media="screen" class="skin">
+        <link href="/js/jquery.min.js" media="screen" class="skin">
 
         <!-- Custom Adjustments -->
         <link href="/css/riatastyle.css" rel="stylesheet" media="screen">
@@ -21,6 +21,9 @@
         <!-- WOW Slider -->
         <link rel="stylesheet" type="text/css" href="/css/stylewow.css" />
         <script type="text/javascript" src="/js/wow/jquerywow.js"></script>
+
+        <!-- Scrolling Nav -->
+        <link href="/css/scrolling-nav.css" rel="stylesheet">
 
         <!-- Favicons -->
         <link rel="shortcut icon" href="/img/icons/favicon.ico">
@@ -110,46 +113,21 @@
             <nav>
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-3 logo">
+                        <div class="col-md-3 logo page-scroll">
                             <a href="#"><img src="/img/chesmarlogo200x46.png" alt="chesmar logo"></a>
                         </div>
                         <!-- Menu-->
                         <ul id="menu" class="col-md-9 sf-menu">
+                            <li><a href="/">HOME</a></li>
+                            <li><a href="#">ABOUT</a></li>
+                            <li><a class="page-scroll" href="#available-homes">AVAILABLE HOMES</a></li>  
                             <li>
-                                <a href="/">HOME</a>
-                            </li>
-                            <li><a href="about.html">ABOUT</a></li>
-                             <li>
-                                <a href="#">AVAILABLE HOMES</a>
-                                <ul> 
-                                    <li><a href="#">Pages</a>
-                                        <ul>                                  
-                                          <li><a href="step_1.html">Register Agent</a></li>
-                                          <li><a href="step_2.html">Register Property</a></li>
-                                      </ul>
-                                    </li>                                 
-                                    <li><a href="tables_princing.html">Princing Tables</a></li>
-                                    <li><a href="grid.html">Grind System</a></li>
-                                    <li><a href="typograpy.html">Tipograpy</a></li>
-                                    <li><a href="icons.html">Icons</a></li>
-                                    <li><a href="elements.html">Elements</a></li>
-                                </ul>
-                            </li>  
-                            <li>
-                                <a href="#">DESIGN &amp; FLOOR PLANS</a>
+                                <a href="#floor-plans">FLOOR PLANS</a>
                                 <ul>                                  
-                                    <li><a href="properties.html">Properties</a></li>
-                                    <li><a href="properties_two.html">Properties Two</a></li>
-                                    <li><a href="details_properties.html">Details Properties</a></li>
+                                    <li><a href="/floorplans/bryce">Bryce</a></li>
                                 </ul>
                             </li> 
-                            <li>
-                                <a href="#">LOCAL AREA</a>
-                                <ul>                                  
-                                    <li><a href="blog.html">Post</a></li>
-                                    <li><a href="single_post.html">Single Post</a></li>                                
-                                </ul>
-                            </li>                                                                           
+                            <li><a href="#">LOCAL AREA</a></li>                                            
                             <li><a href="contact.html">CONTACT</a></li>
                         </ul>
                         <!-- End Menu-->
@@ -284,9 +262,13 @@
         <script src="/js/bootstrap/bootstrap.js"></script>
         <!--fUNCTIONS-->
         <script type="text/javascript" src="/js/main.js"></script>
+
         <!-- Wow Slider -->
         <script type="text/javascript" src="/js/wow/wowslider.js"></script>
         <script type="text/javascript" src="/js/wow/scriptwow.js"></script>
+        <!-- Scrolling Nav JavaScript -->
+        <script src="/js/jquery.easing.min.js"></script>
+        <script src="/js/scrolling-nav.js"></script>
         <!-- ======================= End JQuery libs =========================== -->
     </body>
 </html>

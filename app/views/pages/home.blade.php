@@ -368,7 +368,7 @@ Riata Homes by Chesmar | Home
         <!-- End Features -->
 
         <!-- Available Homes -->
-        <div class="content-carousel">
+        <div class="content-carousel" id="available-homes">
             <div class="row">
                 <div class="col-md-12">
                     <!-- Divisor-->
