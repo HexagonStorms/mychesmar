@@ -392,15 +392,15 @@ Floor Plans | Bryce
                 <!-- Bryce -->
                 <div class="item_property">
                     <div class="head_property">
-                      <a href="properties.html">
+                      <a href="#">
                         <img src="/img/property/Bryce_floorplanx325.png" alt="Image">
                         <h5>Bryce</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
+                            <li><strong>Bed/Bath/Story:</strong><span>4/3/2</span></li>
+                            <li><strong>SQ: FEET:</strong><span>1,921 Sq. Ft</span></li>
                         </ul>                                 
                     </div>
                 </div>
@@ -409,15 +409,15 @@ Floor Plans | Bryce
                 <!-- Casandra -->
                 <div class="item_property">
                     <div class="head_property">
-                      <a href="properties.html">
+                      <a href="#">
                         <img src="/img/property/casandra_floorplanx325.png" alt="Image">
                         <h5>Casandra</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
+                            <li><strong>Bed/Bath/Story:</strong><span>4/2/1</span></li>
+                            <li><strong>SQ FEET:</strong><span>2,083 Sq. Ft</span></li>
                         </ul>                                 
                     </div>
                 </div>
@@ -426,15 +426,15 @@ Floor Plans | Bryce
                 <!-- Branton -->
                  <div class="item_property">
                     <div class="head_property">
-                      <a href="properties.html">
+                      <a href="#">
                         <img src="/img/property/branton_floorplanx325.png" alt="Image">
                         <h5>Branton</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
+                            <li><strong>Bed/Bath/Story:</strong><span>3/2.5/1.5</span></li>
+                            <li><strong>SQ FEET:</strong><span>2,303 Sq. Ft</span></li>
                         </ul>                                 
                     </div>
                 </div>
@@ -443,15 +443,15 @@ Floor Plans | Bryce
                 <!-- Ellison -->
                 <div class="item_property">
                     <div class="head_property">
-                      <a href="properties.html">
+                      <a href="#">
                         <img src="/img/property/ellison_floorplanx325.png" alt="Image">
                         <h5>Ellison</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
+                            <li><strong>Bed/Bath/Story:</strong><span>4/2.5/2.5</span></li>
+                            <li><strong>SQ FEET:</strong><span>2,445 Sq. Ft</span></li>
                         </ul>                                 
                     </div>
                 </div>
@@ -460,15 +460,15 @@ Floor Plans | Bryce
                 <!-- Harley -->
                  <div class="item_property">
                     <div class="head_property">
-                      <a href="properties.html">
+                      <a href="#">
                         <img src="/img/property/harley_floorplanx325.png" alt="Image">
                         <h5>Harley</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
+                            <li><strong>Bed/Bath/Story:</strong><span>4/3.5/2</span></li>
+                            <li><strong>SQ FEET:</strong><span>2,640 Sq. Ft</span></li>
                         </ul>                                 
                     </div>
                 </div>
@@ -477,15 +477,15 @@ Floor Plans | Bryce
                 <!-- Kendall -->
                 <div class="item_property">
                     <div class="head_property">
-                      <a href="properties.html">
+                      <a href="#">
                         <img src="/img/property/kendall_floorplanx325.png" alt="Image">
                         <h5>Kendall</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
+                            <li><strong>Bed/Bath/Story:</strong><span>5/3/2</span></li>
+                            <li><strong>SQ FEET:</strong><span>2,665 Sq. Ft</span></li>
                         </ul>                                 
                     </div>
                 </div>
@@ -494,15 +494,15 @@ Floor Plans | Bryce
                 <!-- Nolan -->
                 <div class="item_property">
                     <div class="head_property">
-                      <a href="properties.html">
+                      <a href="#">
                         <img src="/img/property/nolan_floorplanx325.png" alt="Image">
                         <h5>Nolan</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
+                            <li><strong>Bed/Bath/Story:</strong><span>4/3/2</span></li>
+                            <li><strong>SQ FEET:</strong><span>2,803 Sq. Ft</span></li>
                         </ul>                                 
                     </div>
                 </div>
@@ -511,15 +511,15 @@ Floor Plans | Bryce
                 <!-- Gallo -->
                 <div class="item_property">
                     <div class="head_property">
-                      <a href="properties.html">
+                      <a href="#">
                         <img src="/img/property/gallo_floorplanx325.png" alt="Image">
                         <h5>Gallo</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
+                            <li><strong>Bed/Bath/Story:</strong><span>5/3/2</span></li>
+                            <li><strong>SQ FEET:</strong><span>2,816 Sq. Ft</span></li>
                         </ul>                                 
                     </div>
                 </div>
@@ -528,15 +528,15 @@ Floor Plans | Bryce
                 <!-- Sheffield -->
                 <div class="item_property">
                     <div class="head_property">
-                      <a href="properties.html">
+                      <a href="#">
                         <img src="/img/property/sheffield_floorplanx325.png" alt="Image">
                         <h5>Sheffield</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
-                            <li><strong>Price</strong><span>$1.700</span></li>
+                            <li><strong>Bed/Bath/Story:</strong><span>4/3.5/2</span></li>
+                            <li><strong>SQ FEET:</strong><span>3,000 Sq. Ft</span></li>
                         </ul>                                 
                     </div>
                 </div>
