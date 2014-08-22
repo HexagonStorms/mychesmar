@@ -11,7 +11,18 @@
 |
 */
 
+// Homepage
 Route::get('/', 'HomeController@home');
 
-Route::get('/floorplans/bryce', 'HomeController@bryce');
+// Floor Plans
+	Route::get('/floorplans/bryce', 'HomeController@bryce');
+	Route::get('/floorplans/casandra', 'HomeController@casandra');
+	Route::get('/floorplans/branton', 'HomeController@branton');
+	Route::get('/floorplans/ellison', 'HomeController@ellison');
+	Route::get('/floorplans/harley', 'HomeController@harley');
+	Route::get('/floorplans/kendall', 'HomeController@kendall');
+	Route::get('/floorplans/nolan', 'HomeController@nolan');
+	Route::get('/floorplans/gallo', 'HomeController@gallo');
+	Route::get('/floorplans/sheffield', 'HomeController@sheffield');
+
 

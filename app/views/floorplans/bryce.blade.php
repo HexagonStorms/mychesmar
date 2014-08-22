@@ -41,22 +41,5 @@ Single-story home with three bedrooms plus study, two bathrooms, a formal dining
 @section('bed') 3 @stop
 @section('tour') <a href="http://www.tourbuzz.net/public/vtour/display/216796?idx=1">View</a> @stop
 
-@section('') @stop
-@section('') @stop
-@section('') @stop
-@section('') @stop
-@section('') @stop
-@section('') @stop
-@section('') @stop
-@section('') @stop
-@section('') @stop
-@section('') @stop
-@section('') @stop
-@section('') @stop
-@section('') @stop
-@section('') @stop
-@section('') @stop
-@section('') @stop
-@section('') @stop
 
 

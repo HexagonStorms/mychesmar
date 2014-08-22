@@ -15,7 +15,7 @@ class HomeController extends BaseController {
 	|
 	*/
 
-
+//Homepage
 	public function home()
 	{
 		return View::make('pages.home');
@@ -26,6 +26,46 @@ class HomeController extends BaseController {
 	public function bryce()
 	{
 		return View::make('floorplans.bryce');
+	}
+	
+	public function casandra()
+	{
+		return View::make('floorplans.casandra');
+	}
+
+	public function branton()
+	{
+		return View::make('floorplans.branton');
+	}
+
+	public function ellison()
+	{
+		return View::make('floorplans.ellison');
+	}
+
+	public function harley()
+	{
+		return View::make('floorplans.harley');
+	}
+
+	public function kendall()
+	{
+		return View::make('floorplans.kendall');
+	}
+
+	public function nolan()
+	{
+		return View::make('floorplans.nolan');
+	}
+
+	public function gallo()
+	{
+		return View::make('floorplans.gallo');
+	}
+
+	public function sheffield()
+	{
+		return View::make('floorplans.sheffield');
 	}
 
 }

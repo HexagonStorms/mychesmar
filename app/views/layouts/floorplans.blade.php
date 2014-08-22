@@ -44,7 +44,7 @@ Floor Plans | @yield('floorplanname')
             </div>
             <div class="col-md-4">
                 <div class="description">
-                    <h4>GENERAL DESCRIPTION</h4>
+                    <h4>@yield('floorplanname')</h4>
                     <p>@yield('description')</p>
                     <ul class="info_details">                          
                         <li><strong>Starting Price:</strong><span>@yield('price')</span></li>
