@@ -375,7 +375,7 @@ Floor Plans | Bryce
         </div>
          <!-- Tabs Detail Properties -->
 
-        <!-- Content Carousel Properties -->
+        <!-- Floor Plan Carousel Title & Divider -->
         <div class="content-carousel">
             <div class="row">
                 <div class="col-md-12">
@@ -387,15 +387,14 @@ Floor Plans | Bryce
                 </div>
             </div>
 
-            <!-- Carousel Properties -->
+            <!-- Floor Plan Carousel -->
             <div id="properties-carousel" class="properties-carousel">
-                <!-- Item Property-->
+                <!-- Bryce -->
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <div class="title rent"></div>
                         <img src="/img/property/1.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>Bryce</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
@@ -405,15 +404,14 @@ Floor Plans | Bryce
                         </ul>                                 
                     </div>
                 </div>
-                <!-- Item Property-->
+                <!-- End Bryce -->
 
-                <!-- Item Property-->
+                <!-- Casandra -->
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <div class="title sale"></div>
                         <img src="/img/property/2.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>Casandra</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
@@ -423,15 +421,14 @@ Floor Plans | Bryce
                         </ul>                                 
                     </div>
                 </div>
-                <!-- End Item Property-->
+                <!-- End Casandra -->
 
-                <!-- Item Property-->
+                <!-- Branton -->
                  <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <div class="title sale"></div>
                         <img src="/img/property/3.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>Branton</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
@@ -441,15 +438,14 @@ Floor Plans | Bryce
                         </ul>                                 
                     </div>
                 </div>
-                <!-- End Item Property-->
+                <!-- End Branton -->
 
-                <!-- Item Property-->
+                <!-- Ellison -->
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <div class="title rent"></div>
                         <img src="/img/property/4.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>Ellison</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
@@ -459,15 +455,14 @@ Floor Plans | Bryce
                         </ul>                                 
                     </div>
                 </div>
-                <!-- End Item Property-->
+                <!-- End Ellison -->
 
-                <!-- Item Property-->
+                <!-- Harley -->
                  <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <div class="title sale"></div>
                         <img src="/img/property/3.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>Harley</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
@@ -477,15 +472,14 @@ Floor Plans | Bryce
                         </ul>                                 
                     </div>
                 </div>
-                <!-- End Item Property-->
+                <!-- End Harley -->
 
-                <!-- Item Property-->
+                <!-- Kendall -->
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <div class="title rent"></div>
                         <img src="/img/property/8.jpg" alt="Image">
-                        <h5>Central Park Ny</h5>
+                        <h5>Kendall</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
@@ -495,7 +489,58 @@ Floor Plans | Bryce
                         </ul>                                 
                     </div>
                 </div>
-                <!-- End Item Property-->
+                <!-- End Kendall -->
+
+                <!-- Nolan -->
+                <div class="item_property">
+                    <div class="head_property">
+                      <a href="properties.html">
+                        <img src="/img/property/8.jpg" alt="Image">
+                        <h5>Nolan</h5>
+                      </a>
+                    </div>                        
+                    <div class="info_property">                                  
+                        <ul>
+                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
+                            <li><strong>Price</strong><span>$1.700</span></li>
+                        </ul>                                 
+                    </div>
+                </div>
+                <!-- End Nolan -->
+
+                <!-- Gallo -->
+                <div class="item_property">
+                    <div class="head_property">
+                      <a href="properties.html">
+                        <img src="/img/property/8.jpg" alt="Image">
+                        <h5>Gallo</h5>
+                      </a>
+                    </div>                        
+                    <div class="info_property">                                  
+                        <ul>
+                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
+                            <li><strong>Price</strong><span>$1.700</span></li>
+                        </ul>                                 
+                    </div>
+                </div>
+                <!-- End Gallo -->
+
+                <!-- Sheffield -->
+                <div class="item_property">
+                    <div class="head_property">
+                      <a href="properties.html">
+                        <img src="/img/property/8.jpg" alt="Image">
+                        <h5>Sheffield</h5>
+                      </a>
+                    </div>                        
+                    <div class="info_property">                                  
+                        <ul>
+                            <li><strong>Place </strong><span>Bogotá, Cundinamarca</span></li>
+                            <li><strong>Price</strong><span>$1.700</span></li>
+                        </ul>                                 
+                    </div>
+                </div>
+                <!-- End Sheffield -->
             </div>
             <!-- End Carousel Properties -->
         </div>
