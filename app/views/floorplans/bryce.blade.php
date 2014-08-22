@@ -393,7 +393,7 @@ Floor Plans | Bryce
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="/img/property/1.jpg" alt="Image">
+                        <img src="/img/property/Bryce_floorplanx325.png" alt="Image">
                         <h5>Bryce</h5>
                       </a>
                     </div>                        
@@ -410,7 +410,7 @@ Floor Plans | Bryce
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="/img/property/2.jpg" alt="Image">
+                        <img src="/img/property/casandra_floorplanx325.png" alt="Image">
                         <h5>Casandra</h5>
                       </a>
                     </div>                        
@@ -427,7 +427,7 @@ Floor Plans | Bryce
                  <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="/img/property/3.jpg" alt="Image">
+                        <img src="/img/property/branton_floorplanx325.png" alt="Image">
                         <h5>Branton</h5>
                       </a>
                     </div>                        
@@ -444,7 +444,7 @@ Floor Plans | Bryce
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="/img/property/4.jpg" alt="Image">
+                        <img src="/img/property/ellison_floorplanx325.png" alt="Image">
                         <h5>Ellison</h5>
                       </a>
                     </div>                        
@@ -461,7 +461,7 @@ Floor Plans | Bryce
                  <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="/img/property/3.jpg" alt="Image">
+                        <img src="/img/property/harley_floorplanx325.png" alt="Image">
                         <h5>Harley</h5>
                       </a>
                     </div>                        
@@ -478,7 +478,7 @@ Floor Plans | Bryce
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="/img/property/8.jpg" alt="Image">
+                        <img src="/img/property/kendall_floorplanx325.png" alt="Image">
                         <h5>Kendall</h5>
                       </a>
                     </div>                        
@@ -495,7 +495,7 @@ Floor Plans | Bryce
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="/img/property/8.jpg" alt="Image">
+                        <img src="/img/property/nolan_floorplanx325.png" alt="Image">
                         <h5>Nolan</h5>
                       </a>
                     </div>                        
@@ -512,7 +512,7 @@ Floor Plans | Bryce
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="/img/property/8.jpg" alt="Image">
+                        <img src="/img/property/gallo_floorplanx325.png" alt="Image">
                         <h5>Gallo</h5>
                       </a>
                     </div>                        
@@ -529,7 +529,7 @@ Floor Plans | Bryce
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="/img/property/8.jpg" alt="Image">
+                        <img src="/img/property/sheffield_floorplanx325.png" alt="Image">
                         <h5>Sheffield</h5>
                       </a>
                     </div>                        
