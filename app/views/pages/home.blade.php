@@ -125,7 +125,7 @@ Riata Homes by Chesmar | Home
                     <div class="head_property">
                       <a href="properties.html">
                         <img src="/img/property/samplefloorplan2.jpg" alt="Image">
-                        <h5>Floor Plan #2</h5>
+                        <h5>Casandra</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
@@ -144,7 +144,7 @@ Riata Homes by Chesmar | Home
                     <div class="head_property">
                       <a href="properties.html">
                         <img src="/img/property/samplefloorplan3.jpg" alt="Image">
-                        <h5>Floor Plan #3</h5>
+                        <h5>Branton</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
@@ -163,7 +163,7 @@ Riata Homes by Chesmar | Home
                     <div class="head_property">
                       <a href="properties.html">
                         <img src="/img/property/samplefloorplan4.jpg" alt="Image">
-                        <h5>Floor Plan #4</h5>
+                        <h5>Ellison</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
@@ -182,7 +182,7 @@ Riata Homes by Chesmar | Home
                     <div class="head_property">
                       <a href="properties.html">
                         <img src="img/property/samplefloorplan5.jpg" alt="Image">
-                        <h5>Floor Plan #5</h5>
+                        <h5>Harley</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
@@ -201,7 +201,7 @@ Riata Homes by Chesmar | Home
                     <div class="head_property">
                       <a href="properties.html">
                         <img src="img/property/samplefloorplan6.jpg" alt="Image">
-                        <h5>Floor Plan #6</h5>
+                        <h5>Kendall</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
@@ -220,7 +220,7 @@ Riata Homes by Chesmar | Home
                     <div class="head_property">
                       <a href="properties.html">
                         <img src="img/property/samplefloorplan7.jpg" alt="Image">
-                        <h5>Floor Plan #7</h5>
+                        <h5>Nolan</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
@@ -239,7 +239,7 @@ Riata Homes by Chesmar | Home
                     <div class="head_property">
                       <a href="properties.html">
                         <img src="img/property/samplefloorplan8.jpg" alt="Image">
-                        <h5>Floor Plan #8</h5>
+                        <h5>Gallo</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
@@ -258,7 +258,7 @@ Riata Homes by Chesmar | Home
                     <div class="head_property">
                       <a href="properties.html">
                         <img src="img/property/samplefloorplan8.jpg" alt="Image">
-                        <h5>Floor Plan #8</h5>
+                        <h5>Sheffield</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
