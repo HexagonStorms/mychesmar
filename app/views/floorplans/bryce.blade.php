@@ -41,25 +41,25 @@ Floor Plans | Bryce
         <div class="ws_images">
             <ul>
                 <li><img src="/img/property/bryce/bryce_1_759x500.png" alt="Bryce house photos" title="Bryce house photos" id="wows1_0"/></li>
-                <li><img src="/img/property/bryce/bryce_2_759x500.png" alt="samplefloorplan2" title="samplefloorplan2" id="wows1_1"/></li>
-                <li><img src="/img/property/bryce/bryce_3_759x500.png" alt="samplefloorplan3" title="samplefloorplan3" id="wows1_2"/></li>
-                <li><img src="/img/property/bryce/bryce_4_759x500.png" alt="samplefloorplan4" title="samplefloorplan4" id="wows1_3"/></li>
-                <li><img src="/img/property/bryce/bryce_5_759x500.png" alt="samplefloorplan5" title="samplefloorplan5" id="wows1_4"/></li>
-                <li><img src="/img/property/bryce/bryce_6_759x500.png" alt="samplefloorplan6" title="samplefloorplan6" id="wows1_5"/></li>
-                <li><img src="/img/property/bryce/bryce_7_759x500.png" alt="samplefloorplan7" title="samplefloorplan7" id="wows1_6"/></li>
-                <li><img src="/img/property/bryce/bryce_8_759x500.png" alt="samplefloorplan8" title="samplefloorplan8" id="wows1_7"/></li>
+                <li><img src="/img/property/bryce/bryce_2_759x500.png" alt="Bryce house photos" title="Bryce house photos" id="wows1_1"/></li>
+                <li><img src="/img/property/bryce/bryce_3_759x500.png" alt="Bryce house photos" title="Bryce house photos" id="wows1_2"/></li>
+                <li><img src="/img/property/bryce/bryce_4_759x500.png" alt="Bryce house photos" title="Bryce house photos" id="wows1_3"/></li>
+                <li><img src="/img/property/bryce/bryce_5_759x500.png" alt="Bryce house photos" title="Bryce house photos" id="wows1_4"/></li>
+                <li><img src="/img/property/bryce/bryce_6_759x500.png" alt="Bryce house photos" title="Bryce house photos" id="wows1_5"/></li>
+                <li><img src="/img/property/bryce/bryce_7_759x500.png" alt="Bryce house photos" title="Bryce house photos" id="wows1_6"/></li>
+                <li><img src="/img/property/bryce/bryce_8_759x500.png" alt="Bryce house photos" title="Bryce house photos" id="wows1_7"/></li>
             </ul>
         </div>
         <div class="ws_thumbs">
             <div>
-                <a href="#" title="samplefloorplan1"><img src="/img/property/bryce/bryce_1_759x500.png" alt="" /></a>
-                <a href="#" title="samplefloorplan2"><img src="/img/property/bryce/bryce_2_759x500.png" alt="" /></a>
-                <a href="#" title="samplefloorplan3"><img src="/img/property/bryce/bryce_3_759x500.png" alt="" /></a>
-                <a href="#" title="samplefloorplan4"><img src="/img/property/bryce/bryce_4_759x500.png" alt="" /></a>
-                <a href="#" title="samplefloorplan5"><img src="/img/property/bryce/bryce_5_759x500.png" alt="" /></a>
-                <a href="#" title="samplefloorplan6"><img src="/img/property/bryce/bryce_6_759x500.png" alt="" /></a>
-                <a href="#" title="samplefloorplan7"><img src="/img/property/bryce/bryce_7_759x500.png" alt="" /></a>
-                <a href="#" title="samplefloorplan8"><img src="/img/property/bryce/bryce_8_759x500.png" alt="" /></a>
+                <a href="#" title="Bryce house photos"><img src="/img/property/bryce/bryce_1_759x500.png" alt="Bryce house photos" /></a>
+                <a href="#" title="Bryce house photos"><img src="/img/property/bryce/bryce_2_759x500.png" alt="Bryce house photos" /></a>
+                <a href="#" title="Bryce house photos"><img src="/img/property/bryce/bryce_3_759x500.png" alt="Bryce house photos" /></a>
+                <a href="#" title="Bryce house photos"><img src="/img/property/bryce/bryce_4_759x500.png" alt="Bryce house photos" /></a>
+                <a href="#" title="Bryce house photos"><img src="/img/property/bryce/bryce_5_759x500.png" alt="Bryce house photos" /></a>
+                <a href="#" title="Bryce house photos"><img src="/img/property/bryce/bryce_6_759x500.png" alt="Bryce house photos" /></a>
+                <a href="#" title="Bryce house photos"><img src="/img/property/bryce/bryce_7_759x500.png" alt="Bryce house photos" /></a>
+                <a href="#" title="Bryce house photos"><img src="/img/property/bryce/bryce_8_759x500.png" alt="Bryce house photos" /></a>
 
 
             </div>
