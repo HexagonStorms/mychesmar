@@ -105,7 +105,7 @@ Riata Homes by Chesmar | Home
                 <div class="item_property">
                     <div class="head_property">
                       <a href="/floorplans/bryce">
-                        <img src="/img/property/Bryce_floorplanx325.png" alt="Bryce floor plan">
+                        <img src="/img/property/Bryce_floorplanx325.png" alt="Bryce house floor plan">
                         <h5>Bryce</h5>
                       </a>
                     </div>                        
@@ -124,14 +124,14 @@ Riata Homes by Chesmar | Home
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="/img/property/samplefloorplan2.jpg" alt="Image">
+                        <img src="/img/property/casandra_floorplanx325.png" alt="Casandra house floor plan">
                         <h5>Casandra</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Bed/Bath:</strong><span>1 bed, 2 bath</span></li>
-                            <li><strong>SQ FEET:</strong><span>550 Sq. Ft.</span></li>
+                            <li><strong>Bed/Bath/Story:</strong><span>4 bed, 2 bath, 1 story</span></li>
+                            <li><strong>SQ FEET:</strong><span>2,083 Sq. Ft</span></li>
                         </ul>                                  
                     </div>
                   </div>
@@ -143,14 +143,14 @@ Riata Homes by Chesmar | Home
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="/img/property/samplefloorplan3.jpg" alt="Image">
+                        <img src="/img/property/branton_floorplanx325.png" alt="Branton house floor plan">
                         <h5>Branton</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Bed/Bath:</strong><span>4 bed, 5 bath</span></li>
-                            <li><strong>SQ FEET:</strong><span>2200 Sq. Ft.</span></li>
+                            <li><strong>Bed/Bath/Story:</strong><span>3 bed, 2.5 bath, 1.5 story</span></li>
+                            <li><strong>SQ FEET:</strong><span>2303 Sq. Ft</span></li>
                         </ul>                                 
                     </div>
                   </div>
@@ -162,14 +162,14 @@ Riata Homes by Chesmar | Home
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="/img/property/samplefloorplan4.jpg" alt="Image">
+                        <img src="/img/property/ellison_floorplanx325.png" alt="Ellison house floor plan">
                         <h5>Ellison</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Bed/Bath:</strong><span>3 bed, 2 bath</span></li>
-                            <li><strong>SQ FEET:</strong><span>1200 Sq. Ft.</span></li>
+                            <li><strong>Bed/Bath/Story:</strong><span>4 bed, 2.5 bath, 2.5 story</span></li>
+                            <li><strong>SQ FEET:</strong><span>2,445 Sq. Ft</span></li>
                         </ul>                                
                     </div>
                   </div>
@@ -181,14 +181,14 @@ Riata Homes by Chesmar | Home
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="img/property/samplefloorplan5.jpg" alt="Image">
+                        <img src="img/property/harley_floorplanx325.png" alt="Harley house floor plan">
                         <h5>Harley</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Bed/Bath:</strong><span>1 bed, 1 bath</span></li>
-                            <li><strong>SQ FEET:</strong><span>500 Sq. Ft.</span></li>
+                            <li><strong>Bed/Bath/Story:</strong><span>4 bed, 3.5 bath, 2 story</span></li>
+                            <li><strong>SQ FEET:</strong><span>2,640 Sq. Ft</span></li>
                         </ul>                                
                     </div>
                   </div>
@@ -200,14 +200,14 @@ Riata Homes by Chesmar | Home
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="img/property/samplefloorplan6.jpg" alt="Image">
+                        <img src="img/property/kendall_floorplanx325.png" alt="Kendall house floor plan">
                         <h5>Kendall</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Bed/Bath:</strong><span>3 bed, 2 bath</span></li>
-                            <li><strong>SQ FEET:</strong><span>1000 Sq. Ft.</span></li>
+                            <li><strong>Bed/Bath/Story:</strong><span>5 bed, 3 bath, 2 story</span></li>
+                            <li><strong>SQ FEET:</strong><span>2,665 Sq. Ft</span></li>
                         </ul>                                 
                     </div>
                   </div>
@@ -219,14 +219,14 @@ Riata Homes by Chesmar | Home
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="img/property/samplefloorplan7.jpg" alt="Image">
+                        <img src="img/property/nolan_floorplanx325.png" alt="Nolan house floor plan">
                         <h5>Nolan</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Bed/Bath:</strong><span>4 bed, 5 bath</span></li>
-                            <li><strong>SQ FEET:</strong><span>3300 Sq. Ft.</span></li>
+                            <li><strong>Bed/Bath/Story:</strong><span>4 bed, 3 bath, 2 story</span></li>
+                            <li><strong>SQ FEET:</strong><span>2,803 Sq. Ft</span></li>
                         </ul>                                 
                     </div>
                   </div>
@@ -238,14 +238,14 @@ Riata Homes by Chesmar | Home
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="img/property/samplefloorplan8.jpg" alt="Image">
+                        <img src="img/property/gallo_floorplanx325.png" alt="Gallo house floor plan">
                         <h5>Gallo</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Bed/Bath:</strong><span>4 bed, 4 bath</span></li>
-                            <li><strong>SQ FEET:</strong><span>1800 Sq. Ft.</span></li>
+                            <li><strong>Bed/Bath/Story:</strong><span>5 bed, 3 bath, 2 story</span></li>
+                            <li><strong>SQ FEET:</strong><span>2,816 Sq. Ft</span></li>
                         </ul>                                 
                     </div>
                 </div>
@@ -257,14 +257,14 @@ Riata Homes by Chesmar | Home
                 <div class="item_property">
                     <div class="head_property">
                       <a href="properties.html">
-                        <img src="img/property/samplefloorplan8.jpg" alt="Image">
+                        <img src="img/property/sheffield_floorplanx325.png" alt="Sheffield house floor plan">
                         <h5>Sheffield</h5>
                       </a>
                     </div>                        
                     <div class="info_property">                                  
                         <ul>
-                            <li><strong>Bed/Bath:</strong><span>4 bed, 4 bath</span></li>
-                            <li><strong>SQ FEET:</strong><span>1800 Sq. Ft.</span></li>
+                            <li><strong>Bed/Bath:</strong><span>4 bed, 3.5 bath, 2 story</span></li>
+                            <li><strong>SQ FEET:</strong><span>3,000 Sq. Ft</span></li>
                         </ul>                                 
                     </div>
                 </div>
