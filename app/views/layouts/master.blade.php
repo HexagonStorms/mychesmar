@@ -22,9 +22,6 @@
         <link rel="stylesheet" type="text/css" href="/css/stylewow.css" />
         <script type="text/javascript" src="/js/wow/jquerywow.js"></script>
 
-        <!-- Scrolling Nav -->
-        <link href="/css/scrolling-nav.css" rel="stylesheet">
-
         <!-- Favicons -->
         <link rel="shortcut icon" href="/img/icons/favicon.ico">
         <link rel="apple-touch-icon" href="/img/icons/apple-touch-icon.png">
@@ -61,15 +58,15 @@
                             <li><a class="page-scroll" href="/">HOME</a></li>
                             <li><a class="page-scroll" href="#">ABOUT</a></li>
                             <li>
-                                <a class="page-scroll" href="#floor-plans">FLOOR PLANS</a>
+                                <a class="page-scroll" href="/#floor-plans">FLOOR PLANS</a>
                                 <ul>                                  
                                     <li><a href="/floorplans/bryce">Bryce</a></li>
                                 </ul>
                             </li>
-                            <li><a class="page-scroll" href="#design">DESIGN</a></li> 
-                            <li><a class="page-scroll" href="#available-homes">AVAILABLE HOMES</a></li>  
+                            <li><a class="page-scroll" href="/#design">DESIGN</a></li> 
+                            <li><a class="page-scroll" href="/#available-homes">AVAILABLE HOMES</a></li>  
                             <li><a class="page-scroll" href="#">LOCAL AREA</a></li>                                            
-                            <li><a class="page-scroll" href="#contact">CONTACT</a></li>
+                            <li><a class="page-scroll" href="/#contact">CONTACT</a></li>
                         </ul>
                         <!-- End Menu-->
                     </div>
@@ -207,9 +204,7 @@
         <!-- Wow Slider -->
         <script type="text/javascript" src="/js/wow/wowslider.js"></script>
         <script type="text/javascript" src="/js/wow/scriptwow.js"></script>
-        <!-- Scrolling Nav JavaScript -->
-        <script src="/js/jquery.easing.min.js"></script>
-        <script src="/js/scrolling-nav.js"></script>
+        
         <!-- ======================= End JQuery libs =========================== -->
     </body>
 </html>
