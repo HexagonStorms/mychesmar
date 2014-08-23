@@ -105,7 +105,7 @@
                         <div class="col-md-4 links">
                             <h3>Useful links</h3>
                             <ul>
-                                <li><a href="#">About Chesmar</a></li>
+                                <li><a href="#">About Chesmar Homes</a></li>
                                 <li><a href="#">Local Area Information</a></li>
                                 <li><a href="#">Available Homes</a></li>
                                 <li><a href="#">About Ralph</a></li>
