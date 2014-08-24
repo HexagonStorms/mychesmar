@@ -31,4 +31,4 @@ Two-story home featuring three bedrooms, plus a study, an upstairs bonus room wi
 @section('story') 1.5 @stop
 @section('bath') 2.5 @stop
 @section('bed') 3 @stop
-@section('tour') n/a @stop
+@section('tour') N/A @stop
