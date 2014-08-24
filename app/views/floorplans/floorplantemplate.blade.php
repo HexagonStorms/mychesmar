@@ -1,7 +1,13 @@
 @extends('layouts.floorplans')
 @section('floorplanname')  @stop
-@section('floorplanpdf')  @stop
+@section('floorplanpdf') @stop
 @section('floorplanelevation') @stop
+@section('price') @stop
+@section('sqft') @stop
+@section('story') @stop
+@section('bath') @stop
+@section('bed') @stop
+@section('tour')  @stop
 
 @section('wowslider')
 <div class="ws_images">
@@ -25,10 +31,3 @@
 @section('description')
 
 @stop
-
-@section('price') @stop
-@section('sqft') @stop
-@section('story') @stop
-@section('bath') @stop
-@section('bed') @stop
-@section('tour') @stop
