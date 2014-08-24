@@ -368,7 +368,7 @@ Floor Plans | @yield('floorplanname')
                 <div class="item_property">
                     <div class="head_property">
                       <a href="#">
-                        <img src="/img/property/Bryce_floorplanx325.png" alt="Image">
+                        <img src="/img/property/floorplans/bryce/bryce_floorplanx325.png" alt="Image">
                         <h5>Bryce</h5>
                       </a>
                     </div>                        
@@ -385,7 +385,7 @@ Floor Plans | @yield('floorplanname')
                 <div class="item_property">
                     <div class="head_property">
                       <a href="#">
-                        <img src="/img/property/casandra_floorplanx325.png" alt="Image">
+                        <img src="/img/property/floorplans/casandra/casandra_floorplanx325.png" alt="Image">
                         <h5>Casandra</h5>
                       </a>
                     </div>                        
@@ -402,7 +402,7 @@ Floor Plans | @yield('floorplanname')
                  <div class="item_property">
                     <div class="head_property">
                       <a href="#">
-                        <img src="/img/property/branton_floorplanx325.png" alt="Image">
+                        <img src="/img/property/floorplans/branton/branton_floorplanx325.png" alt="Image">
                         <h5>Branton</h5>
                       </a>
                     </div>                        
@@ -419,7 +419,7 @@ Floor Plans | @yield('floorplanname')
                 <div class="item_property">
                     <div class="head_property">
                       <a href="#">
-                        <img src="/img/property/ellison_floorplanx325.png" alt="Image">
+                        <img src="/img/property/floorplans/ellison/ellison_floorplanx325.png" alt="Image">
                         <h5>Ellison</h5>
                       </a>
                     </div>                        
@@ -436,7 +436,7 @@ Floor Plans | @yield('floorplanname')
                  <div class="item_property">
                     <div class="head_property">
                       <a href="#">
-                        <img src="/img/property/harley_floorplanx325.png" alt="Image">
+                        <img src="/img/property/floorplans/harley/harley_floorplanx325.png" alt="Image">
                         <h5>Harley</h5>
                       </a>
                     </div>                        
@@ -453,7 +453,7 @@ Floor Plans | @yield('floorplanname')
                 <div class="item_property">
                     <div class="head_property">
                       <a href="#">
-                        <img src="/img/property/kendall_floorplanx325.png" alt="Image">
+                        <img src="/img/property/floorplans/kendall/kendall_floorplanx325.png" alt="Image">
                         <h5>Kendall</h5>
                       </a>
                     </div>                        
@@ -470,7 +470,7 @@ Floor Plans | @yield('floorplanname')
                 <div class="item_property">
                     <div class="head_property">
                       <a href="#">
-                        <img src="/img/property/nolan_floorplanx325.png" alt="Image">
+                        <img src="/img/property/floorplans/nolan/nolan_floorplanx325.png" alt="Image">
                         <h5>Nolan</h5>
                       </a>
                     </div>                        
@@ -487,7 +487,7 @@ Floor Plans | @yield('floorplanname')
                 <div class="item_property">
                     <div class="head_property">
                       <a href="#">
-                        <img src="/img/property/gallo_floorplanx325.png" alt="Image">
+                        <img src="/img/property/floorplans/gallo/gallo_floorplanx325.png" alt="Image">
                         <h5>Gallo</h5>
                       </a>
                     </div>                        
@@ -504,7 +504,7 @@ Floor Plans | @yield('floorplanname')
                 <div class="item_property">
                     <div class="head_property">
                       <a href="#">
-                        <img src="/img/property/sheffield_floorplanx325.png" alt="Image">
+                        <img src="/img/property/floorplans/sheffield/sheffield_floorplanx325.png" alt="Image">
                         <h5>Sheffield</h5>
                       </a>
                     </div>                        
