@@ -70,7 +70,7 @@ Riata Homes by Chesmar | Home
                                 <li class="caption-icon fa fa-home"><span>1</span></li>
                             </ul>
                             <div class="more animated fadeInRight delay4">
-                                <a href="/floorplan/bryce" class="button">More Info</a>
+                                <a href="/floorplans/bryce" class="button">More Info</a>
                             </div>
                         </div>  
                     </div>                       
@@ -403,8 +403,8 @@ Riata Homes by Chesmar | Home
 <footer class="section_area footer_top" id="contact">
     <div class="container center"> 
         <h1>Get in touch</h1>
-        <p>Let Ralph show you why Riata Homes are perfect for you.</p>
-        <a href="#" class="button">Contact</a>                
+        <p>Our homes have everything but you. Find yours now.</p>
+        <a href="mailto:ralphplaza@hotmail.com?Subject=Hello%20Ralph" class="button">Contact</a>                
         <br><br>
     </div>
 </footer>

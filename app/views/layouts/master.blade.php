@@ -56,7 +56,7 @@
                         <!-- Menu-->
                         <ul id="menu" class="col-md-9 sf-menu page-scroll">
                             <li><a class="page-scroll" href="/">HOME</a></li>
-                            <li><a class="page-scroll" href="#">ABOUT</a></li>
+                            <li><a class="page-scroll" href="http://chesmar.com/communities/san-antonio/riata">ABOUT</a></li>
                             <li>
                                 <a class="page-scroll" href="/#floor-plans">FLOOR PLANS</a>
                                 <ul>                                  
@@ -96,13 +96,13 @@
                                     <i class="fa fa-envelope"></i><a href="mailto:ralphplaza@hotmail.com?Subject=Hello%20Ralph" target="_top">ralphplaza@hotmail.com</a>
                                 </li>
                                 <li>
-                                    <i class="fa fa-phone"></i><a href="#">(210) 215-1090</a>
+                                    <i class="fa fa-phone"></i><a href="tel:210-215-1090">(210) 215-1090</a>
                                  </li>
                                 <li class="location">
-                                    <i class="fa fa-home"></i><a href="#"> 2901 Mineral Springs</a>
+                                    <i class="fa fa-home"></i><a href="https://www.google.com/maps/place/2901+Mineral+Springs,+Schertz,+TX+78108/@29.6163353,-98.2411752,17z/data=!3m1!4b1!4m2!3m1!1s0x865c93e7a404e659:0x2620d09eeee55c09"> 2901 Mineral Springs</a>
                                 </li>  
                                 <li class="location">
-                                    <i class="fa fa-road"></i><a href="#"> Schertz, Texas 78108</a>
+                                    <i class="fa fa-road"></i><a href="https://www.google.com/maps/place/2901+Mineral+Springs,+Schertz,+TX+78108/@29.6163353,-98.2411752,17z/data=!3m1!4b1!4m2!3m1!1s0x865c93e7a404e659:0x2620d09eeee55c09"> Schertz, Texas 78108</a>
                                 </li>                                   
                             </ul>               
                         </div>
@@ -112,10 +112,10 @@
                         <div class="col-md-4 links">
                             <h3>Useful links</h3>
                             <ul>
-                                <li><a href="#">About Chesmar Homes</a></li>
-                                <li><a href="#">Local Area Information</a></li>
-                                <li><a href="#">Available Homes</a></li>
-                                <li><a href="#">About Ralph</a></li>
+                                <li><a href="http://chesmar.com/the-legend-of-chesmar">About Chesmar Homes</a></li>
+                                <li><a href="http://chesmar.com/communities/san-antonio/riata">Local Area Information</a></li>
+                                <li><a href="/#floor-plans">Floor Plans</a></li>
+                                <li><a href="http://chesmar.com/meet-the-team/ralph-plaza">About Ralph</a></li>
                             </ul>
                         </div>
                         <!-- End Recent Links -->
