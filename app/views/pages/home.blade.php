@@ -538,12 +538,13 @@ Riata Homes by Chesmar | Home
 </div>
 <!-- End Sponsors-->
 
-<!-- Full info-->
+<!-- 4 Step Process Graphic 
+
 <section class="full_info">
     <div class="container">
         <div class="row text-center service-process">
 
-            <!-- Step 1 -->
+
             <a href="step_1.html">
               <div class="col-md-3">
                   <div class="thumbnail-process">
@@ -555,7 +556,7 @@ Riata Homes by Chesmar | Home
               </div>
             </a>
 
-            <!-- Step 2 -->
+
             <a href="step_2.html">
               <div class="col-md-3">
                   <div class="thumbnail-process">
@@ -567,7 +568,7 @@ Riata Homes by Chesmar | Home
               </div>
             </a>
 
-            <!-- Step 3 -->
+
             <div class="col-md-3">
                 <div class="thumbnail-process">
                   <div class="caption-head">
@@ -577,7 +578,7 @@ Riata Homes by Chesmar | Home
                 </div>
             </div>
 
-            <!-- Step 4 -->
+
             <div class="col-md-3">
                 <div class="thumbnail-process">
                   <div class="caption-head">
@@ -589,7 +590,8 @@ Riata Homes by Chesmar | Home
         </div>
     </div>
 </section>
-<!-- End Full info-->
+ End 4 Step Process Graphic-->
+
 
 <!-- Footer area - footer_top -->
 <footer class="section_area footer_top" id="contact">
