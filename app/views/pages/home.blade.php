@@ -527,13 +527,13 @@ Riata Homes by Chesmar | Home
 <!-- Sponsors-->
 <div class="container">
     <ul class="sponsors">
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/210.jpg" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/acme.jpg" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/cpe.jpg" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/dow.jpg" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/keyinsulation.jpg" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/wiesenbaker.jpg" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/1.png" alt="Image"></a></li>
+        <li data-toggle="tooltip" title data-original-title="210 Home Buyers Warranty"><img src="img/sponsors/210.png" alt="210 Home Buyers Warranty"></li>
+        <li data-toggle="tooltip" title data-original-title="Acme Brick"><img src="img/sponsors/acme.png" alt="Acme Brick"></li>
+        <li data-toggle="tooltip" title data-original-title="CenterPoint Energy"><img src="img/sponsors/cpe.png" alt="CenterPoint Energy"></li>
+        <li data-toggle="tooltip" title data-original-title="DOW"><img src="img/sponsors/dow.png" alt="DOW"></li>
+        <li data-toggle="tooltip" title data-original-title="Key Insulation"><img src="img/sponsors/keyinsulation.png" alt="Key Insulation"></li>
+        <li data-toggle="tooltip" title data-original-title="Wisenbaker"><img src="img/sponsors/wisenbaker.png" alt="Wisenbaker"></li>
+        <li data-toggle="tooltip" title data-original-title="Riata"><img src="img/sponsors/riata.png" alt="Riata"></li>
     </ul>
 </div>
 <!-- End Sponsors-->
