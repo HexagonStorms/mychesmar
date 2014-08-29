@@ -527,14 +527,13 @@ Riata Homes by Chesmar | Home
 <!-- Sponsors-->
 <div class="container">
     <ul class="sponsors">
+        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/210.jpg" alt="Image"></a></li>
+        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/acme.jpg" alt="Image"></a></li>
+        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/cpe.jpg" alt="Image"></a></li>
+        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/dow.jpg" alt="Image"></a></li>
+        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/keyinsulation.jpg" alt="Image"></a></li>
+        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/wiesenbaker.jpg" alt="Image"></a></li>
         <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/1.png" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/2.png" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/3.png" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/4.png" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/5.png" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/3.png" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/4.png" alt="Image"></a></li>
-        <li data-toggle="tooltip" title data-original-title="Name Sponsor"> <a href="#"><img src="img/sponsors/3.png" alt="Image"></a></li>
     </ul>
 </div>
 <!-- End Sponsors-->
