@@ -60,12 +60,19 @@
                             <li>
                                 <a class="page-scroll" href="/#floor-plans">FLOOR PLANS</a>
                                 <ul>                                  
+                                    <li><a href="/floorplans/branton">Branton</a></li>
                                     <li><a href="/floorplans/bryce">Bryce</a></li>
+                                    <li><a href="/floorplans/casandra">Casandra</a></li>
+                                    <li><a href="/floorplans/ellison">Ellison</a></li>
+                                    <li><a href="/floorplans/gallo">Gallo</a></li>
+                                    <li><a href="/floorplans/harley">Harley</a></li>
+                                    <li><a href="/floorplans/kendall">Kendall</a></li>
+                                    <li><a href="/floorplans/nolan">Nolan</a></li>
+                                    <li><a href="/floorplans/sheffield">Sheffield</a></li>
+
                                 </ul>
                             </li>
-                            <li><a class="page-scroll" href="/#design">DESIGN</a></li> 
-                            <li><a class="page-scroll" href="/#available-homes">AVAILABLE HOMES</a></li>  
-                            <li><a class="page-scroll" href="#">LOCAL AREA</a></li>                                            
+                                                                        
                             <li><a class="page-scroll" href="/#contact">CONTACT</a></li>
                         </ul>
                         <!-- End Menu-->
@@ -119,7 +126,7 @@
                                 <!-- Item Testimonial -->
                                 <li>
                                     <div class="testimonials">
-                                        <p>Ralph is extremely helpful when my family and I were shopping for our home. I would highly recommend him to anyone.</p>
+                                        <p>Ralph was extremely helpful when my family and I were shopping for our home. I would highly recommend him to anyone.</p>
                                         <span class="arrow_testimonials"></span>
                                     </div>        
                                     <h6 class="testimonial_autor">Juan David Rendon - Home Owner</h6> 
@@ -132,14 +139,14 @@
                                         <p>I would go to Ralph anytime I have questions about homes. He knows what he's doing!</p>
                                         <span class="arrow_testimonials"></span>
                                     </div>        
-                                    <h6 class="testimonial_autor">Jeniffer Martinez - Home Owner</h6> 
+                                    <h6 class="testimonial_autor">Jennifer Martinez - Home Owner</h6> 
                                 </li>
                                 <!-- Item Testimonial -->
 
                                 <!-- Item Testimonial -->
                                 <li>
                                     <div class="testimonials">
-                                        <p>If you're looking for somebody to give you an honest and relaxed home-shopping experience, look no further than here.</p>
+                                        <p>If you're looking for somebody to give you an honest and relaxed home-shopping experience, look no further.</p>
                                         <span class="arrow_testimonials"></span>
                                     </div>        
                                     <h6 class="testimonial_autor">Federic Gordon - Home Owner</h6> 

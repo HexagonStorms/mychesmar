@@ -14,7 +14,7 @@ Riata Homes by Chesmar | Home
     <!-- Slide -->           
     <div class="camera_wrap camera_white_skin" id="slide">
         <!-- Item Slide -->  
-        <div  data-src="img/slide/slides/riata1.jpg">
+        <div  data-src="img/slide/slides/slide5sheffield.jpg">
             <div class="camera_caption fadeFromTop">
                  <div class="container"> 
                     <div class="row">
@@ -22,9 +22,9 @@ Riata Homes by Chesmar | Home
                             <h1 class="animated fadeInRight delay1">Riata Homes by Chesmar
                                 <span class="arrow_title_slide"></span>
                             </h1>   
-                            <p class="animated fadeInRight delay2">Beautiful Homes perfect for you and your family.</p> 
+                            <p class="animated fadeInRight delay2"><em>Setting a Higher Standard</em></p> 
                             <div class="more animated fadeInRight delay4">
-                                <a href="properties.html" class="button">More Info</a>
+                                <a href="http://chesmar.com/the-legend-of-chesmar" class="button">More Info</a>
                             </div>
                         </div>    
                     </div>                     
@@ -33,50 +33,100 @@ Riata Homes by Chesmar | Home
          </div>
         <!-- End Item Slide -->  
 
-        <!-- Item Slide --> 
-        <div data-src="img/slide/slides/riata2.jpg">
-            <div class="camera_caption fadeFromTop">
-                 <div class="container"> 
-                    <div class="row">
-                        <div class="col-md-7 col-md-offset-5">
-                            <p class="animated fadeInRight delay2">Beautifully-crafted homes for you</p> 
-                            <ul class="animated fadeInRight delay3">
-                                <li class="bathrooms"><span>3</span></li>
-                                <li class="bedrooms"><span>5</span></li>
-                                <li class="price">$<span>5000</span></li>
-                            </ul>
-                            <div class="more animated fadeInRight delay4">
-                                <a href="properties.html" class="button">More Info</a>
-                            </div>
-                        </div>
-                    </div>                         
-                </div>     
-            </div>
-        </div>
-       <!-- End Item Slide -->  
-
        <!-- Item Slide --> 
-        <div data-src="img/slide/slides/riata3.jpg">
+        <div data-src="img/slide/slides/slide2harley.jpg">
             <div class="camera_caption fadeFromTop">
                  <div class="container"> 
                     <div class="row">
                         <div class="col-md-7 col-md-offset-5">
                               
-                            <p class="animated fadeInRight delay2">Beautifully-crafted homes for you</p> 
+                            <p class="animated fadeInRight delay2">Featured Floor Plan: <em>Harley</em></p> 
                             <ul class="animated fadeInRight delay3">
-                                <li class="bathrooms"><span>3</span></li>
-                                <li class="bedrooms"><span>5</span></li>
-                                <li class="price">$<span>5000</span></li>
+                                <li class="bathrooms"><span>3.5</span></li>
+                                <li class="bedrooms"><span>4</span></li>
+                                <li class="caption-icon fa fa-home"><span>2</span></li>
                             </ul>
                             <div class="more animated fadeInRight delay4">
-                                <a href="properties.html" class="button">More Info</a>
+                                <a href="/floorplans/harley" class="button">More Info</a>
                             </div>
                         </div>  
                     </div>                       
                 </div>     
             </div>
         </div>
-       <!-- End Item Slide -->  
+       <!-- End Item Slide --> 
+
+        <!-- Item Slide --> 
+        <div data-src="img/slide/slides/slide1bryce.jpg">
+            <div class="camera_caption fadeFromTop">
+                 <div class="container"> 
+                    <div class="row">
+                        <div class="col-md-7 col-md-offset-5">
+                              
+                            <p class="animated fadeInRight delay2">Featured Floor Plan: <em>Bryce</em></p> 
+                            <ul class="animated fadeInRight delay3">
+                                <li class="bathrooms"><span>2</span></li>
+                                <li class="bedrooms"><span>3</span></li>
+                                <li class="caption-icon fa fa-home"><span>1</span></li>
+                            </ul>
+                            <div class="more animated fadeInRight delay4">
+                                <a href="/floorplan/bryce" class="button">More Info</a>
+                            </div>
+                        </div>  
+                    </div>                       
+                </div>     
+            </div>
+        </div>
+       <!-- End Item Slide -->   
+
+       <!-- Item Slide --> 
+        <div data-src="img/slide/slides/slide3gallo.jpg">
+            <div class="camera_caption fadeFromTop">
+                 <div class="container"> 
+                    <div class="row">
+                        <div class="col-md-7 col-md-offset-5">
+                              
+                            <p class="animated fadeInRight delay2">Featured Floor Plan: <em>Gallo</em></p> 
+                            <ul class="animated fadeInRight delay3">
+                                <li class="bathrooms"><span>3</span></li>
+                                <li class="bedrooms"><span>5</span></li>
+                                <li class="caption-icon fa fa-home"><span>2</span></li>
+                            </ul>
+                            <div class="more animated fadeInRight delay4">
+                                <a href="/floorplans/gallo" class="button">More Info</a>
+                            </div>
+                        </div>  
+                    </div>                       
+                </div>     
+            </div>
+        </div>
+       <!-- End Item Slide -->
+
+       <!-- Item Slide --> 
+        <div data-src="img/slide/slides/slide6sheffield.jpg">
+            <div class="camera_caption fadeFromTop">
+                 <div class="container"> 
+                    <div class="row">
+                        <div class="col-md-7 col-md-offset-5">
+                              
+                            <p class="animated fadeInRight delay2">Featured Floor Plan: <em>Sheffield</em></p> 
+                            <ul class="animated fadeInRight delay3">
+                                <li class="bathrooms"><span>3.5</span></li>
+                                <li class="bedrooms"><span>4</span></li>
+                                <li class="caption-icon fa fa-home"><span>2</span></li>
+                            </ul>
+                            <div class="more animated fadeInRight delay4">
+                                <a href="/floorplans/sheffield" class="button">More Info</a>
+                            </div>
+                        </div>  
+                    </div>                       
+                </div>     
+            </div>
+        </div>
+       <!-- End Item Slide --> 
+
+
+
     </div>  
     <!-- End Slide -->   
 </header>
@@ -274,251 +324,7 @@ Riata Homes by Chesmar | Home
         </div>
         <!-- End Row -->
 
-        <!-- Design Features -->
-        <div class="row" id="design">
-            <!-- Title-->
-            <div class="col-md-12">
-                <!-- Divisor-->
-                <div class="divisor">
-                    <div class="circle_left"></div>
-                    <div class="circle_right"></div>
-                </div>
-                <!-- End Divisor-->
-
-                <div class="titles">
-                    <h1>DESIGN FEATURES</h1>
-                </div>
-            </div>
-            <!-- End Title-->
-
-            <!-- Services-->
-            <div class="services padding_top_mini">
-                <!-- Item Service-->
-                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                    <h3><a href="#">Neat feature</a></h3>
-                    <div class="item_service">
-                        <div class="image_service">
-                            <i class="fa fa-coffee"></i>
-                        </div>
-                        <div class="info_service">
-                            <p>Pellentesque habitant morbi tristi senectus et netus et.</p>
-                        </div>
-                        <div class="clearfix"></div>
-                    </div>
-                </div>
-                <!-- End Item Service-->  
-
-               <!-- Item Service-->
-                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                    <h3><a href="#">Mega cool custimzation</a></h3>
-                    <div class="item_service">
-                        <div class="image_service">
-                            <i class="fa fa-home"></i>
-                        </div>
-                        <div class="info_service">
-                            <p>Pellentesque habitant morbi tristi senectus et netus et .</p>
-                        </div>
-                        <div class="clearfix"></div>
-                    </div>
-                </div>
-                <!-- End Item Service--> 
-
-                <!-- Item Service-->
-                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                    <h3><a href="#">more cool stuff</a></h3>
-                    <div class="item_service">
-                        <div class="image_service">
-                            <i class="fa fa-car"></i>
-                        </div>
-                        <div class="info_service">
-                            <p>Pellentesque habitant morbi tristi senectus et netus et .</p>
-                        </div>
-                        <div class="clearfix"></div>
-                    </div>
-                </div>
-                <!-- End Item Service-->                   
-           
-                <!-- Item Service-->
-                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                    <h3><a href="#">Pick your favorite</a></h3>
-                    <div class="item_service">
-                        <div class="image_service">
-                            <i class="fa fa-road"></i>
-                        </div>
-                        <div class="info_service">
-                            <p>Pellentesque habitant morbi tristi senectus et netus et .</p>
-                        </div>
-                        <div class="clearfix"></div>
-                    </div>
-                </div>
-                <!-- End Item Service-->  
-
-               <!-- Item Service-->
-                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                    <h3><a href="#">Ralph is awesome</a></h3>
-                    <div class="item_service">
-                        <div class="image_service">
-                            <i class="fa fa-tags"></i>
-                        </div>
-                        <div class="info_service">
-                            <p>Pellentesque habitant morbi tristi senectus et netus et .</p>
-                        </div>
-                        <div class="clearfix"></div>
-                    </div>
-                </div>
-                <!-- End Item Service--> 
-
-                <!-- Item Service-->
-                <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-                    <h3><a href="#">Plz buy</a></h3>
-                    <div class="item_service">
-                        <div class="image_service">
-                            <i class="fa fa-camera"></i>
-                        </div>
-                        <div class="info_service">
-                            <p>Pellentesque habitant morbi tristi senectus et netus et .</p>
-                        </div>
-                        <div class="clearfix"></div>
-                    </div>
-                </div>
-                <!-- End Item Service-->  
-            </div>
-            <!-- End Services-->
-        </div>
-        <!-- End Features -->
-
-        <!-- Available Homes -->
-        <div class="content-carousel" id="available-homes">
-            <div class="row">
-                <div class="col-md-12">
-                    <!-- Divisor-->
-                    <div class="divisor">
-                        <div class="circle_left"></div>
-                        <div class="circle_right"></div>
-                    </div>
-                    <!-- End Divisor-->
-
-                    <!-- Title-->
-                    <div class="titles">
-                        <h1>AVAILABLE HOMES</h1>
-                    </div>
-                    <!-- End Title-->
-                </div>
-            </div>
-
-            <!-- Start Available Home Carousel -->
-            <div id="properties-carousel" class="properties-carousel">
-                <!-- Available Home #1-->
-                <div class="item_property">
-                    <div class="head_property">
-                      <a href="properties.html">
-                        <div class="title rent"></div>
-                        <img src="img/property/availablehomes/samplehouse1.jpg" alt="Image">
-                        <h5>2 Story, 2Bed, 2Bath</h5>
-                      </a>
-                    </div>                        
-                    <div class="info_property">                                  
-                        <ul>
-                            <li><strong>Place </strong><span>Riata</span></li>
-                            <li><strong>Price</strong><span>$175,000</span></li>
-                        </ul>                                 
-                    </div>
-                </div>
-                <!-- End Available Home #1 -->
-
-                <!-- Available Home #2 -->
-                <div class="item_property">
-                    <div class="head_property">
-                      <a href="properties.html">
-                        <div class="title sale"></div>
-                        <img src="img/property/availablehomes/samplehouse2.jpg" alt="Image">
-                        <h5>1 Story, 1 Bed, 2Bath</h5>
-                      </a>
-                    </div>                        
-                    <div class="info_property">                                  
-                        <ul>
-                            <li><strong>Place </strong><span>Riata</span></li>
-                            <li><strong>Price</strong><span>$250,000</span></li>
-                        </ul>                                  
-                    </div>
-                </div>
-                <!-- End Available Home #2 -->
-
-                <!-- Available Home #3 -->
-                 <div class="item_property">
-                    <div class="head_property">
-                      <a href="properties.html">
-                        <div class="title sale"></div>
-                        <img src="img/property/availablehomes/samplehouse3.jpg" alt="Image">
-                        <h5>2 Story, 2 Bed, 2 Bath</h5>
-                      </a>
-                    </div>                        
-                    <div class="info_property">                                  
-                        <ul>
-                            <li><strong>Place </strong><span>Riata</span></li>
-                            <li><strong>Price</strong><span>$200,000</span></li>
-                        </ul>                                
-                    </div>
-                </div>
-                <!-- End Available Home #3 -->
-
-                <!-- Available Home #4 -->
-                <div class="item_property">
-                    <div class="head_property">
-                      <a href="properties.html">
-                        <div class="title rent"></div>
-                        <img src="img/property/availablehomes/samplehouse4.jpg" alt="Image">
-                        <h5>1 Story, 2 Bed, 2 Bath</h5>
-                      </a>
-                    </div>                        
-                    <div class="info_property">                                  
-                        <ul>
-                            <li><strong>Place </strong><span>Riata</span></li>
-                            <li><strong>Price</strong><span>$340,000</span></li>
-                        </ul>                                  
-                    </div>
-                </div>
-                <!-- End Available Home #4 -->
-
-                <!-- Available Home #5 -->
-                 <div class="item_property">
-                    <div class="head_property">
-                      <a href="properties.html">
-                        <div class="title sale"></div>
-                        <img src="img/property/availablehomes/samplehouse5.jpg" alt="Image">
-                        <h5>2 Story, 3 Bed, 4 Bath</h5>
-                      </a>
-                    </div>                        
-                    <div class="info_property">                                  
-                        <ul>
-                            <li><strong>Place </strong><span>Riata</span></li>
-                            <li><strong>Price</strong><span>$400,000</span></li>
-                        </ul>                                  
-                    </div>
-                </div>
-                <!-- End Available Home #5 -->
-
-                <!-- Available Home #6 -->
-                <div class="item_property">
-                    <div class="head_property">
-                      <a href="properties.html">
-                        <div class="title rent"></div>
-                        <img src="img/property/availablehomes/samplehouse6.jpg" alt="Image">
-                        <h5>1 Story, 2 Bed, 3 Bath</h5>
-                      </a>
-                    </div>                        
-                    <div class="info_property">                                  
-                        <ul>
-                            <li><strong>Place </strong><span>Riata</span></li>
-                            <li><strong>Price</strong><span>$225,000</span></li>
-                        </ul>                                 
-                    </div>
-                </div>
-                <!-- End Available Home #6 -->
-            </div>
-            <!-- End Carousel Properties -->
-        </div>
-        <!-- End Content Carousel Properties -->
+        <!-- Features & Available Homes Section Coming Soon -->
     </div>
     <!-- End Container -->
 </div>
