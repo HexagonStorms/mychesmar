@@ -55,7 +55,7 @@
                         </div>
                         <!-- Menu-->
                         <ul id="menu" class="col-md-9 sf-menu page-scroll">
-                            <li><a class="page-scroll" href="/">HOME</a></li>
+                            
                             <li><a class="page-scroll" href="http://chesmar.com/communities/san-antonio/riata">ABOUT</a></li>
                             <li>
                                 <a class="page-scroll" href="/#floor-plans">FLOOR PLANS</a>
