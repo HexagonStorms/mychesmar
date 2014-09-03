@@ -93,7 +93,7 @@
                           <h3>Contact Ralph</h3>                        
                             <ul class="contact_footer">
                                 <li>
-                                    <i class="fa fa-envelope"></i><a href="mailto:ralphplaza@hotmail.com?Subject=Hello%20Ralph" target="_top">ralphplaza@hotmail.com</a>
+                                    <i class="fa fa-envelope"></i><a href="mailto:ralph@ralphplaza.com?Subject=Hello%20Ralph" target="_top">ralph@ralphplaza.com</a>
                                 </li>
                                 <li>
                                     <i class="fa fa-phone"></i><a href="tel:210-215-1090">(210) 215-1090</a>
@@ -173,7 +173,7 @@
                                     <a href="https://www.facebook.com/ChesmarHomesSA"><i class="fa fa-facebook"></i></a>
                                 </li>
                                 <li data-toggle="tooltip" title="Email">
-                                    <a href="mailto:ralphplaza@hotmail.com?Subject=Hello%20Ralph"><i class="fa fa-envelope"></i></a>
+                                    <a href="mailto:ralph@ralphplaza.com?Subject=Hello%20Ralph"><i class="fa fa-envelope"></i></a>
                                 </li>
                             </ul>
                         </div>

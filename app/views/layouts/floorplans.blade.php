@@ -33,7 +33,7 @@ Floor Plans | @yield('floorplanname')
                         <li title="Click to view PDF" data-toggle="tooltip"><i class="fa fa-file-pdf-o"></i><a href="@yield('floorplanpdf')">View Floor Plan</a></li>
                         <li title="Click to view PDF" data-toggle="tooltip"><i class="fa fa-file-pdf-o"></i><a href="@yield('floorplanelevation')">View Elevation Options</a></li>
                         <li title="Call Ralph" data-toggle="tooltip"><i class="fa fa-phone"></i><a href="#">(210) 215-1090</a></li>
-                        <li title="Contact" data-toggle="tooltip"><i class="fa fa-envelope"></i><a href="mailto:ralphplaza@hotmail.com?Subject=Hello%20Ralph">Email</a></li>
+                        <li title="Contact" data-toggle="tooltip"><i class="fa fa-envelope"></i><a href="mailto:ralph@ralphplaza.com?Subject=Hello%20Ralph">Email</a></li>
                     </ul>
                 </div>
     <!-- Start WOWSlider -->
