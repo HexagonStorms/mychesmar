@@ -3,7 +3,7 @@
 @section('floorplanpdf') http://chesmar.com/sites/chesmar.com/files/elevations/Sheffield%20v4.0%20BR%20FLRPLN.pdf @stop
 @section('floorplanelevation') http://chesmar.com/sites/chesmar.com/files/elevations/Sheffield%20v4.0%20BR%20EVLNT%204.pdf @stop
 @section('price') $278,990 @stop
-@section('sqft') 3,000 @stop
+@section('sqft') 3,250 @stop
 @section('story') 2 @stop
 @section('bath') 3.5 @stop
 @section('bed') 4 @stop

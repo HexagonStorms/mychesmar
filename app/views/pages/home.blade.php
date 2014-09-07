@@ -314,7 +314,7 @@ Riata Homes by Chesmar | Home
                     <div class="info_property">                                  
                         <ul>
                             <li><strong>Bed/Bath:</strong><span>4 bed, 3.5 bath, 2 story</span></li>
-                            <li><strong>SQ FEET:</strong><span>3,000 Sq. Ft</span></li>
+                            <li><strong>SQ FEET:</strong><span>3,250 Sq. Ft</span></li>
                         </ul>                                 
                     </div>
                 </div>
