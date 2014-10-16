@@ -154,7 +154,7 @@ Riata Homes by Chesmar | Home
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="item_property">
                     <div class="head_property">
-                      <a href="/floorplans/bryce">
+                      <a target="_blank" href="/floorplans/bryce">
                         <img src="/img/property/floorplans/bryce/bryce_floorplanx325.png" alt="Bryce house floor plan">
                         <h5>Bryce</h5>
                       </a>
@@ -173,7 +173,7 @@ Riata Homes by Chesmar | Home
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="item_property">
                     <div class="head_property">
-                      <a href="/floorplans/casandra">
+                      <a target="_blank" href="/floorplans/casandra">
                         <img src="/img/property/floorplans/casandra/casandra_floorplanx325.png" alt="Casandra house floor plan">
                         <h5>Casandra</h5>
                       </a>
@@ -192,7 +192,7 @@ Riata Homes by Chesmar | Home
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="item_property">
                     <div class="head_property">
-                      <a href="/floorplans/branton">
+                      <a target="_blank" href="/floorplans/branton">
                         <img src="/img/property/floorplans/branton/branton_floorplanx325.png" alt="Branton house floor plan">
                         <h5>Branton</h5>
                       </a>
@@ -211,7 +211,7 @@ Riata Homes by Chesmar | Home
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="item_property">
                     <div class="head_property">
-                      <a href="/floorplans/ellison">
+                      <a target="_blank" href="/floorplans/ellison">
                         <img src="/img/property/floorplans/ellison/ellison_floorplanx325.png" alt="Ellison house floor plan">
                         <h5>Ellison</h5>
                       </a>
@@ -230,7 +230,7 @@ Riata Homes by Chesmar | Home
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="item_property">
                     <div class="head_property">
-                      <a href="/floorplans/harley">
+                      <a target="_blank" href="/floorplans/harley">
                         <img src="img/property/floorplans/harley/harley_floorplanx325.png" alt="Harley house floor plan">
                         <h5>Harley</h5>
                       </a>
@@ -249,7 +249,7 @@ Riata Homes by Chesmar | Home
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="item_property">
                     <div class="head_property">
-                      <a href="/floorplans/kendall">
+                      <a target="_blank" href="/floorplans/kendall">
                         <img src="img/property/floorplans/kendall/kendall_floorplanx325.png" alt="Kendall house floor plan">
                         <h5>Kendall</h5>
                       </a>
@@ -268,7 +268,7 @@ Riata Homes by Chesmar | Home
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="item_property">
                     <div class="head_property">
-                      <a href="/floorplans/nolan">
+                      <a target="_blank" href="/floorplans/nolan">
                         <img src="img/property/floorplans/nolan/nolan_floorplanx325.png" alt="Nolan house floor plan">
                         <h5>Nolan</h5>
                       </a>
@@ -287,7 +287,7 @@ Riata Homes by Chesmar | Home
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="item_property">
                     <div class="head_property">
-                      <a href="/floorplans/gallo">
+                      <a target="_blank" href="/floorplans/gallo">
                         <img src="img/property/floorplans/gallo/gallo_floorplanx325.png" alt="Gallo house floor plan">
                         <h5>Gallo</h5>
                       </a>
@@ -306,7 +306,7 @@ Riata Homes by Chesmar | Home
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="item_property">
                     <div class="head_property">
-                      <a href="/floorplans/sheffield">
+                      <a target="_blank" href="/floorplans/sheffield">
                         <img src="img/property/floorplans/sheffield/sheffield_floorplanx325.png" alt="Sheffield house floor plan">
                         <h5>Sheffield</h5>
                       </a>
